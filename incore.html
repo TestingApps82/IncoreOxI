@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INCORE San Martín - Portal Central</title>
+  <meta name="description"
+    content="Nodo central interactivo del Índice de Competitividad Regional (INCORE) - San Martín." />
+
+  <!-- Hoja de estilos exclusiva para esta página -->
+  <link rel="stylesheet" href="/incore.css" />
+</head>
+
+<body class="dark">
+
+  <!-- ======================================================================
+       CABECERA MINIMALISTA
+       Solo botón Atrás y botón permanente de modo Claro/Oscuro
+       ====================================================================== -->
+  <header class="header">
+    <div class="header-container">
+      <div class="header-left">
+        <a href="/index.html" class="btn-back">
+          ◀︎
+        </a>
+      </div>
+
+      <div class="header-right">
+        <!-- Botón permanente de cambio de tema: siempre en la misma ubicación -->
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">
+          ☀️ <span>Modo Claro</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================================================================
+       ESCENARIO CENTRAL: 2 CÍRCULOS CON HALO DINÁMICO Y ROTATORIO
+       ====================================================================== -->
+  <main class="center-stage">
+
+    <div class="definitios">
+      <div class="definition-first">
+        <span class="def-label">EL INCORE COMO HERRAMIENTA DE DIAGNÓSTICO</span>
+        <p class="def-tags">
+          "Mide y compara la competitividad de las 25 regiones del Perú, con el fin de identificar fortalezas,
+          brechas y oportunidades para mejorar el desarrollo económico y social en el ámbito regional. Este índice busca
+          generar evidencia útil para la toma de decisiones públicas y privadas y promover el diseño de políticas más
+          eficaces y focalizadas que contribuyan al crecimiento sostenido y la mejora del bienestar en las regiones"
+        </p>
+      </div>
+
+      <div class="definition-second">
+        <span class="def-label">EL INCORE COMO HOJA DE RUTA</span>
+        <p class="def-tags">
+          "Debe servir como hoja de ruta para que el Ejecutivo, los GORE y los gobiernos locales
+          pasen de promesas generales a compromisos concretos para atraer inversión privada, mejorar la ejecución de
+          obras, cerrar brechas de agua y saneamiento, fortalecer salud y educación, y enfrentar la inseguridad con
+          prevención y coordinación territorial"
+        </p>
+      </div>
+    </div>
+
+    <div class="halo-system-container">
+      <!-- Halo dinámico rotatorio sutil de fondo -->
+      <div class="rotating-halo-glow"></div>
+      <div class="rotating-halo-orbit"></div>
+
+      <!-- Estructura de los 2 Círculos Superpuestos -->
+      <div class="dual-circles-node" id="central-core">
+
+        <!-- CÍRCULO PRINCIPAL: INCORE PERÚ -->
+        <div class="circle circle-main" id="circle-peru">
+          <div class="circle-inner-glass">
+            <span class="circle-label">INCORE</span>
+            <span class="circle-label">PERÚ</span>
+          </div>
+        </div>
+
+        <!-- CÍRCULO SECUNDARIO SUPERPUESTO: San Martín -->
+        <div class="circle circle-sub" id="circle-san-martin">
+          <div class="circle-inner-glass">
+            <span class="circle-label-sub">INCORE</span>
+            <span class="circle-label-sub">San Martín</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Script exclusivo en JavaScript para esta página -->
+  <script type="module" src="/incore.js"></script>
+  <script src="/presentation.js" defer></script>
+</body>
+
+</html>

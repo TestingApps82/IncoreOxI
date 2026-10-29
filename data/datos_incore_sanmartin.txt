@@ -1,0 +1,1123 @@
+Pilar	Tipo	Id	Control	Unidad	Nombre	Año_Valor	Perú	San Martín	Mapa	Sentido
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2015	5.7	3.7	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2016	5.7	3.7	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2017	5.7	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2018	5.7	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2019	5.7	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2020	5.7	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2021	5.7	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2022	5.8	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2023	5.8	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2024	5.8	3.8	0	
+Entorno económico	Principal	EE1	2	Millones de Soles del 2007, en logaritmos | Fuente: INCORE	1.1 PBI real en logaritmos	2025	5.8	3.8	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2015	482506.4	5466.3	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2016	501581.5	5588.1	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2017	514215.1	5944.1	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2018	534626.5	6063.3	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2019	546605.0	6081.5	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2020	486843.5	5850.5	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2021	552161.5	6282.9	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2022	567721.6	6314.1	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2023	565731.5	6436.2	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2024	585617.5	6574.3	0	
+Entorno económico	Relacionado	EE1-1	2	Millones de Soles del 2007 | Fuente: INEI	Producto Bruto Interno a precios constantes de 2007	2025	605707.7	6772.9	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2015	25294.0	1430.6	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2016	25963.0	1473.9	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2017	26624.0	1622.0	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2018	28643.0	1646.8	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2019	29474.0	1544.1	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2020	29706.0	1698.0	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2021	31208.0	1691.6	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2022	32619.0	1678.3	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2023	31813.0	1772.9	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2024	33525.0	1670.1	0	
+Entorno económico	Relacionado	EE1-2	3	Millones de Soles del 2007 | Fuente: INEI	Agricultura, Ganadería, Caza y Silvicultura	2025	35120.0	1679.0	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2015	57948.0	39.9	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2016	65095.0	39.0	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2017	67438.6	39.0	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2018	66428.6	40.5	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2019	66272.1	41.5	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2020	57236.8	36.2	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2021	62219.1	40.3	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2022	62477.1	40.4	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2023	67846.1	43.6	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2024	70163.5	45.4	0	
+Entorno económico	Relacionado	EE1-3	1	Millones de Soles del 2007 | Fuente: INEI	Extracción de Petróleo, Gas y Minerales	2025	71144.5	44.9	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2015	66824.1	540.2	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2016	66783.2	543.5	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2017	67154.0	563.5	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2018	71047.4	573.2	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2019	70208.0	582.1	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2020	61450.2	542.2	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2021	72838.7	620.8	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2022	74106.9	602.8	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2023	69256.3	558.6	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2024	71864.3	577.2	0	
+Entorno económico	Relacionado	EE1-4	2	Millones de Soles del 2007 | Fuente: INEI	Manufactura	2025	73815.0	582.0	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2015	8666	36	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2016	9344	45	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2017	9432	46	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2018	9862	38	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2019	10292	39	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2020	9627	39	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2021	10488	44	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2022	10894	44	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2023	11276	46	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2024	11552	50	0	
+Entorno económico	Relacionado	EE1-5	2	Millones de Soles del 2007 | Fuente: INEI	Electricidad, Gas y Agua	2025	11780	53	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2015	30083	569	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2016	29290	496	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2017	30002	577	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2018	31626	537	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2019	32089	515	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2020	27306	413	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2021	36857	495	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2022	37807	468	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2023	34749	463	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2024	36017	561	0	
+Entorno económico	Relacionado	EE1-6	2	Millones de Soles del 2007 | Fuente: INEI	Construcción	2025	38413	600	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2015	51919	650	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2016	53369	669	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2017	54070	676	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2018	55442	687	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2019	56802	705	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2020	49251	626	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2021	57711	698	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2022	59549	717	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2023	60690	728	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2024	62539	738	0	
+Entorno económico	Relacionado	EE1-7	1	Millones de Soles del 2007 | Fuente: INEI	Comercio	2025	64806	767	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2015	26371	148	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2016	27454	155	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2017	28554	162	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2018	30128	172	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2019	30876	177	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2020	22347	128	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2021	26797	143	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2022	29098	156	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2023	29343	165	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2024	31129	176	0	
+Entorno económico	Relacionado	EE1-8	1	Millones de Soles del 2007 | Fuente: INEI	Transporte, Almacen., Correo y Mensajería	2025	32672	183	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2015	15562	162	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2016	15988	170	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2017	16194	174	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2018	16831	180	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2019	17569	186	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2020	8696	94	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2021	12368	129	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2022	15238	157	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2023	15618	158	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2024	16195	162	0	
+Entorno económico	Relacionado	EE1-9	3	Millones de Soles del 2007 | Fuente: INEI	Alojamiento y Restaurantes	2025	16568	166	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2015	19133	170	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2016	20812	188	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2017	22523	208	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2018	23686	214	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2019	25340	230	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2020	26414	246	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2021	29143	275	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2022	30240	282	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2023	29586	286	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2024	30182	292	0	
+Entorno económico	Relacionado	EE1-10	1	Millones de Soles del 2007 | Fuente: INEI	Telecom. y Otros Serv. de Información	2025	30069	297	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2015	24160	481	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2016	25194	502	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2017	26027	525	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2018	27191	554	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2019	28090	584	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2020	28988	603	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2021	30277	618	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2022	31212	631	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2023	32067	661	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2024	33329	693	0	
+Entorno económico	Relacionado	EE1-11	2	Millones de Soles del 2007 | Fuente: INEI	Administración Pública y Defensa	2025	34782	747	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2015	112229	1240	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2016	116430	1307	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2017	119740	1350	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2018	125472	1421	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2019	130170	1478	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2020	122122	1425	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2021	131396	1527	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2022	132470	1537	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2023	132872	1554	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2024	136657	1610	0	
+Entorno económico	Relacionado	EE1-12	2	Millones de Soles del 2007 | Fuente: INEI	Otros Actividades (Otros Servicios, Pesca y Acuicultura.)	2025	141077	1653	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2015	4.0	2.7	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2016	4.1	2.0	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2017	3.8	2.0	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2018	3.8	1.3	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2019	4.0	2.6	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2020	3.4	0.5	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2021	2.9	0.3	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2022	3.5	0.9	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2023	3.4	1.0	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2024	3.7	1.7	0	
+Entorno económico	Principal	EE2	2	Puntaje del 0 al 10 | Fuente: INCORE	1.2 Trabajadores en grandes empresas (más de 100 trabajadores)	2025	3.9	1.2	0	
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2015	18.0	13.0	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2016	18.3	11.2	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2017	17.2	11.3	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2018	17.3	9.8	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2019	17.5	12.6	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2020	16.1	8.0	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2021	15.1	7.6	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2022	15.4	8.8	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2023	16.4	9.1	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2024	16.8	10.7	1	creciente
+Entorno económico	Relacionado	EE2-1	2	Porcentaje de la PEA ocupada regional | Fuente: INEI - ENAHO	Trabajadores en grandes empresas (más de 100 trabajadores)	2025	17.3	9.7	1	creciente
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2015	15919247	418854	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2016	16197110	446494	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2017	16510984	472240	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2018	16776484	470897	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2019	17133100	491172	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2020	14901782	484489	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2021	17120141	537987	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2022	17336510	506371	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2023	17179796	481181	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2024	17322940	500494	0	
+Entorno económico	Relacionado	EE2-2	2	Personas | Fuente: INEI - ENAHO	PEA ocupada	2025	17575150	512829	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2016	11587	138	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2017	11279	111	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2018	11893	126	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2019	12474	129	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2020	11532	138	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2021	13743	112	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2022	18117	216	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2023	18759	209	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2024	20466	222	0	
+Entorno económico	Relacionado	EE2-3	2	Número de empresas | Fuente: PRODUCE	Medianas y grandes empresas	2025	21685	252	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2015	4.6	3.3	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2016	4.9	3.9	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2017	4.9	4.0	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2018	5.2	4.5	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2019	5.3	4.3	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2020	3.5	3.1	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2021	4.3	4.0	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2022	4.5	3.8	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2023	4.4	3.9	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2024	4.6	4.0	0	
+Entorno económico	Principal	EE3	2	Puntaje del 0 al 10 | Fuente: INCORE	1.3 Gasto real per cápita mensual	2025	4.9	4.4	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2015	954.3	768.6	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2016	974.0	809.4	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2017	972.0	816.3	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2018	988.5	850.7	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2019	999.2	840.7	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2020	840.1	760.0	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2021	891.8	819.1	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2022	898.2	805.9	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2023	891.6	815.4	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2024	902.5	820.1	0	
+Entorno económico	Relacionado	EE3-1	2	Soles | Fuente: INEI - ENAHO	Gasto real per cápita mensual	2025	920.4	844.1	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2015	2.3	0.4	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2016	2.5	0.4	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2017	2.5	0.5	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2018	2.5	0.4	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2019	2.4	0.5	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2020	2.4	0.6	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2021	3.5	0.8	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2022	3.3	0.9	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2023	3.2	0.8	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2024	3.4	0.9	0	
+Entorno económico	Principal	EE4	2	Puntaje del 0 al 10 | Fuente: INCORE	1.4 Apertura externa	2025	3.6	1.4	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2015	18.1	4.5	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2016	19.5	4.5	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2017	21.3	4.9	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2018	21.4	4.0	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2019	19.0	4.6	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2020	19.2	5.6	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2021	26.9	7.5	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2022	25.9	9.3	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2023	24.1	8.1	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2024	25.5	8.9	0	
+Entorno económico	Relacionado	EE4-1	2	Exportaciones como porcentaje del PBI de la región | Fuente: INCORE	Apertura externa	2025	27.3	13.6	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2015	2.3	0.0	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2016	2.8	1.1	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2017	3.0	1.8	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2018	3.3	2.4	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2019	3.8	3.5	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2020	4.1	4.3	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2021	5.4	6.0	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2022	5.8	5.3	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2023	6.4	5.4	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2024	6.9	7.0	0	
+Entorno económico	Principal	EE5	2	Puntaje del 0 al 10 | Fuente: INCORE	1.5 Tenencia de cuentas	2025	7.2	6.7	0	
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2015	28.7	17.3	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2016	32.8	22.9	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2017	36.4	26.7	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2018	38.1	29.6	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2019	40.4	35.3	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2020	42.3	39.3	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2021	49.8	47.7	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2022	51.6	44.3	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2023	55.7	45.1	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2024	57.2	53.0	1	creciente
+Entorno económico	Relacionado	EE5-1	2	Porcentaje de la población adulta con cuenta corriente, de ahorro, a plazo fijo o CTS en una entidad financiera | Fuente: INEI - ENAHO	Tenencia de cuentas	2025	59.6	51.4	1	creciente
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2015	3.9	2.5	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2016	4.2	2.7	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2017	4.4	2.9	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2018	4.6	3.0	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2019	5.0	3.4	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2020	4.5	3.2	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2021	4.3	2.8	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2022	5.0	3.6	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2023	4.7	3.6	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2024	4.5	3.5	0	
+Entorno económico	Principal	EE6	2	Puntaje del 0 al 10 | Fuente: INCORE	1.6 Acceso al crédito	2025	4.9	3.9	0	
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2015	31.0	20.3	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2016	31.7	21.2	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2017	32.6	22.3	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2018	33.3	22.6	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2019	35.0	24.6	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2020	32.9	23.4	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2021	31.7	21.9	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2022	34.4	25.2	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2023	32.3	25.3	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2024	33.0	25.0	1	creciente
+Entorno económico	Relacionado	EE6-1	2	Porcentaje de la población adulta con crédito en el sistema financiero | Fuente SBS	Acceso al crédito	2025	36.4	26.6	1	creciente
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2015	226054.5	1534.0	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2016	234809.2	1578.7	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2017	243885.2	1656.1	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2018	269846.8	1787.3	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2019	285273.8	1793.9	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2020	325086.5	1993.4	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2021	348504.8	2059.5	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2022	355108.8	2129.0	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2023	349750.2	2310.3	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2024	350462.5	2344.9	0	
+Entorno económico	Relacionado	EE6-2	2	Millones de Soles | Fuente: SBS	Total de créditos directos de la banca múltiple	2025	369819.2	2554.9	0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2015			0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2016			0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2017			0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2018			0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2019			0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2020	0.1	0.0	0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2021	0.3	0.1	0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2022	1.1	0.5	0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2023	2.9	1.7	0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2024	5.7	3.9	0	
+Entorno económico	Principal	EE7	2	Puntaje del 0 al 10 | Fuente: INCORE	1.7 Billeteras digitales	2025	8.2	6.3	0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2015			0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2016			0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2017			0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2018			0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2019			0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2020	1	0	0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2021	2	0	0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2022	7	2	0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2023	15	6	0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2024	27	14	0	
+Entorno económico	Relacionado	EE7-1	2	Número de transacciones mensuales desde la billetera digital YAPE por habitante adulto | Fuente: YAPE	Billeteras digitales	2025	40	23	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2015	4.5	4.9	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2016	4.4	4.2	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2017	4.2	4.1	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2018	4.4	4.2	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2019	4.5	3.8	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2020	3.5	2.1	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2021	3.4	2.9	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2022	3.9	3.8	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2023	3.9	4.2	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2024	4.0	3.8	0	
+Laboral	Principal	LA1	2	Puntaje del 0 al 10 | Fuente: INCORE	2.1 Ingreso por hora por trabajo	2025	4.4	5.5	0	
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2015	11.3	11.0	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2016	11.6	10.3	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2017	11.4	10.1	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2018	11.4	10.3	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2019	11.4	9.9	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2020	10.1	8.2	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2021	9.9	9.0	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2022	10.2	9.8	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2023	10.3	10.3	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2024	10.6	9.9	1	creciente
+Laboral	Relacionado	LA1-1	2	Soles | Fuente: INEI - ENAHO	Ingreso por hora por trabajo	2025	10.8	11.6	1	creciente
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2015	4.6	5.0	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2016	4.6	4.1	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2017	4.8	3.7	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2018	4.8	4.5	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2019	4.8	5.2	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2020	4.7	2.6	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2021	3.3	2.1	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2022	3.7	2.9	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2023	4.1	3.4	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2024	4.0	3.9	0	
+Laboral	Principal	LA2	2	Puntaje del 0 al 10 | Fuente: INCORE	2.2 Formalidad laboral	2025	4.9	4.5	0	
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2015	34.8	30.8	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2016	36.2	27.9	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2017	35.1	26.7	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2018	35.2	29.3	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2019	34.5	31.3	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2020	34.4	23.5	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2021	30.5	21.8	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2022	30.6	24.4	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2023	32.8	26.0	1	creciente
+Laboral	Relacionado	LA2-1	2	Porcentaje de la PEA ocupada no agropecuaria | Fuente: INEI - ENAHO	Formalidad laboral	2024	32.1	27.5	1	creciente
+Laboral	Relacionado	LA2-1	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2025	35.6	29.3	1	creciente
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2018	8237940	166630	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2019	8571584	181877	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2020	6687729	154032	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2021	8633601	201052	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2022	9343345	200567	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2023	9086432	188672	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2024	9424781	213417	0	
+Laboral	Relacionado	LA2-2	2	Personas | Fuente: INEI - ENAHO	Informalidad laboral (no agropecuario)	2025	9329303	208791	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2015	5.5	3.0	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2016	4.8	3.7	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2017	4.7	4.0	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2018	4.0	2.4	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2019	4.2	2.5	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2020	3.8	1.7	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2021	4.3	3.0	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2022	4.7	3.9	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2023	5.1	4.1	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2024	5.3	3.9	0	
+Laboral	Principal	LA3	2	Puntaje del 0 al 10 | Fuente: INCORE	2.3 Trabajadores que ganan menos que el salario mínimo	2025	4.7	3.6	0	
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2015	21.2	38.1	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2016	24.0	35.3	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2017	24.5	34.2	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2018	26.9	40.3	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2019	26.6	39.9	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2020	30.6	42.9	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2021	28.0	37.8	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2022	27.8	34.4	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2023	25.5	33.7	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2024	25.7	34.4	1	decreciente
+Laboral	Relacionado	LA3-1	2	Porcentaje de trabajadores a tiempo completo con ingreso menor a la Remuneración Mínima Vital | Fuente: INEI - ENAHO	Trabajadores que ganan menos que el salario mínimo	2025	27.0	35.5	1	decreciente
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2015	6.0	4.2	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2016	6.0	6.2	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2017	6.0	6.7	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2018	6.2	5.4	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2019	6.4	6.8	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2020	3.3	4.2	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2021	5.9	6.9	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2022	6.0	7.0	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2023	5.9	6.2	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2024	5.9	7.5	0	
+Laboral	Principal	LA4	2	Puntaje del 0 al 10 | Fuente: INCORE	2.4 Jóvenes que no estudian ni trabajan	2025	6.4	6.6	0	
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2015	17.7	21.4	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2016	17.5	16.2	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2017	17.8	15.1	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2018	17.3	18.3	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2019	16.8	14.7	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2020	26.5	21.4	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2021	19.1	14.5	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2022	18.2	14.2	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2023	18.2	16.2	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2024	17.4	13.0	1	decreciente
+Laboral	Relacionado	LA4-1	2	Porcentaje de jóvenes entre 15-29 años | Fuente: INEI - ENAHO	Jóvenes que no estudian ni trabajan	2025	17.0	15.2	1	decreciente
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2015	7734342	208744	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2016	7748358	210687	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2017	7778864	213290	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2018	7815924	216252	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2019	7849606	219273	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2020	7869975	222053	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2021	7876246	224700	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2022	7875040	227410	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2023	7867538	230024	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2024	7854912	232382	0	
+Laboral	Relacionado	LA4-2	1	Personas | Fuente: INEI	Jóvenes entre 15-29 años	2025	7838342	234317	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2015	1369087.729	44680	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2016	1359652.232	34090	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2017	1382930.892	32159	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2018	1355636.02	39516	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2019	1321662.93	32289	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2020	2087259.156	47502	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2021	1505653.434	32524	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2022	1431498.569	32185	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2023	1432014.479	37273	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2024	1364627.92	30228	0	
+Laboral	Relacionado	LA4-3	2	Personas | Fuente: INEI	Jóvenes entre 15-29 años que no estudian ni trabajan	2025	1332518.14	35616	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2015	3.3	2.1	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2016	3.5	1.9	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2017	3.6	2.0	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2018	4.0	1.8	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2019	4.3	2.4	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2020	3.9	0.4	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2021	3.4	0.9	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2022	3.9	1.6	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2023	4.2	1.8	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2024	4.7	2.2	0	
+Laboral	Principal	LA5	2	Puntaje del 0 al 10 | Fuente: INCORE	2.5 Fuerza laboral educada	2025	5.0	2.4	0	
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2015	19.7	13.9	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2016	20.6	13.3	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2017	20.4	13.6	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2018	21.3	13.0	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2019	22.0	14.5	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2020	20.8	9.8	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2021	19.8	11.0	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2022	20.6	12.6	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2023	21.8	13.1	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2024	23.1	13.9	1	creciente
+Laboral	Relacionado	LA5-1	2	Porcentaje de la PEA ocupada con al menos educación superior | Fuente: INEI - ENAHO	Fuerza laboral educada	2025	23.6	14.4	1	creciente
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2015	4.9	1.5	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2016	5.2	1.4	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2017	5.4	2.5	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2018	5.5	1.6	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2019	5.7	3.2	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2020	4.3	1.4	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2021	5.1	2.6	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2022	5.4	3.2	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2023	5.5	2.9	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2024	5.4	3.6	0	
+Laboral	Principal	LA6	2	Puntaje del 0 al 10 | Fuente: INCORE	2.6 Brecha de género en participación laboral	2025	5.4	3.1	0	
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2015	18.7	28.3	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2016	17.9	28.6	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2017	17.0	25.2	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2018	16.6	27.9	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2019	16.6	23.4	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2020	20.5	28.5	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2021	17.9	25.1	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2022	17.6	23.2	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2023	16.9	24.1	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2024	17.9	22.0	1	decreciente
+Laboral	Relacionado	LA6-1	2	Diferencia entre la participación laboral masculina y femenina en puntos porcentuales | Fuente: INEI - ENAHO	Brecha de género en participación laboral	2025	16.7	23.5	1	decreciente
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2015	3.0	3.0	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2016	3.0	4.1	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2017	3.1	4.4	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2018	3.5	4.9	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2019	3.8	5.3	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2020	5.2	5.9	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2021	3.5	3.7	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2022	3.4	3.9	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2023	3.9	4.3	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2024	4.0	4.5	0	
+Laboral	Principal	LA7	2	Puntaje del 0 al 10 | Fuente: INCORE	2.7 Brecha de género en ingresos laborales	2025	4.1	3.9	0	
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2015	30.0	33.7	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2016	30.6	27.6	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2017	30.7	26.3	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2018	29.7	23.4	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2019	27.0	21.3	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2020	21.1	17.8	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2021	27.4	30.0	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2022	30.0	29.1	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2023	28.2	26.7	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2024	27.2	25.5	1	decreciente
+Laboral	Relacionado	LA7-1	2	Porcentaje de los ingresos laborales masculinos que excede a los femeninos | Fuente: INEI - ENAHO	Brecha de género en ingresos laborales	2025	25.5	29.1	1	decreciente
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2015	6.9	6.6	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2016	7.1	7.6	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2017	7.3	7.3	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2018	7.6	7.6	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2019	7.6	7.5	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2020	7.9	8.1	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2021	7.9	8.4	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2022	7.7	8.0	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2023	8.0	8.6	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2024	7.9	8.7	0	
+Infraestructura	Principal	IF1	3	Puntaje del 0 al 10 | Fuente: INCORE	3.1 Hogares con acceso a agua	2025	8.0	8.3	0	
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2015	87.9	83.6	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2016	89.0	88.1	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2017	89.2	86.8	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2018	90.4	88.1	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2019	90.6	87.4	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2020	91.4	90.0	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2021	90.6	91.4	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2022	90.1	89.9	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2023	91.0	92.2	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2024	90.4	92.8	1	creciente
+Infraestructura	Relacionado	IF1-1	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares con acceso a agua	2025	90.7	90.7	1	creciente
+Infraestructura	Relacionado	IF1-2	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares sin acceso a agua	2024	-	-	1	decreciente
+Infraestructura	Relacionado	IF1-2	3	Porcentaje de hogares con acceso a red pública de agua (dentro o fuera del hogar) o pilón | INEI - ENAPRES	Hogares sin acceso a agua	2025	-	4.0	1	decreciente
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2015	4.5	3.1	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2016	4.7	3.1	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2017	5.0	3.8	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2018	5.2	3.8	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2019	5.4	4.1	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2020	5.5	4.5	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2021	5.5	4.4	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2022	5.8	5.0	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2023	6.2	6.1	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2024	6.3	6.1	0	
+Infraestructura	Principal	IF2	3	Puntaje del 0 al 10 | Fuente: INCORE	3.2 Hogares con acceso a saneamiento	2025	6.5	6.4	0	
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2015	72.2	55.4	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2016	73.7	54.9	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2017	74.7	59.4	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2018	75.9	59.6	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2019	76.6	60.8	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2020	77.0	63.6	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2021	75.8	63.1	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2022	77.1	66.2	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2023	78.8	73.2	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2024	79.3	72.8	1	creciente
+Infraestructura	Relacionado	IF2-1	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares con acceso a saneamiento	2025	79.9	74.7	1	creciente
+Infraestructura	Relacionado	IF2-2	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares sin acceso a saneamiento	2024	-	-	1	decreciente
+Infraestructura	Relacionado	IF2-2	3	Porcentaje de hogares con acceso a red pública de desagüe (dentro o fuera del hogar) o pozo séptico | Fuente: INEI - ENAPRES	Hogares sin acceso a saneamiento	2025	-	22.8	1	decreciente
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2015	6.1	5.6	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2016	5.8	6.0	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2017	5.8	5.7	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2018	5.9	5.7	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2019	5.9	6.2	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2020	5.8	6.1	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2021	5.9	6.0	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2022	5.8	5.4	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2023	5.6	5.5	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2024	6.5	5.8	0	
+Infraestructura	Principal	IF3	1	Puntaje del 0 al 10 | Fuente: INCORE	3.3 Continuidad en la provisión de agua	2025	6.6	6.1	0	
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2015	18.0	15.9	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2016	17.6	16.4	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2017	17.7	15.9	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2018	17.8	16.0	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2019	17.9	16.9	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2020	17.5	16.7	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2021	17.8	16.4	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2022	17.6	15.6	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2023	17.4	15.7	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2024	18.7	16.2	1	creciente
+Infraestructura	Relacionado	IF3-1	1	Horas al día | Fuente: SUNASS, INEI - ENAPRES	Continuidad en la provisión de agua	2025	18.9	16.6	1	creciente
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2015			0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2016			0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2017	3.5	2.5	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2018	3.8	2.9	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2019	3.8	3.2	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2020	3.5	3.3	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2021	3.5	2.3	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2022	3.3	2.2	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2023	3.1	2.6	0	
+Infraestructura	Principal	IF4	1	Puntaje del 0 al 10 | Fuente: INCORE	3.4 Acceso a agua clorada	2025	3.4	2.3	0	
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2015			1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2016			1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2017	38.4	20.8	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2018	41.8	23.6	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2019	42.8	26.2	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2020	41.6	26.8	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2021	40.1	19.4	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2022	38.1	18.6	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2023	37.2	21.8	1	creciente
+Infraestructura	Relacionado	IF4-1	1	Porcentaje de la población con acceso a agua con el nivel adecuado de cloro residual | Fuente: SUNASS	Acceso a agua clorada	2025	41.7	19.7	1	creciente
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2015	7.0	8.1	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2016	5.8	4.1	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2017	6.4	5.8	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2018	6.0	5.3	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2019	5.5	4.5	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2020	5.5	5.2	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2021	4.4	4.0	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2022	4.6	3.7	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2023	5.6	5.2	0	
+Infraestructura	Principal	IF5	1	Puntaje del 0 al 10 | Fuente: INCORE	3.5 Precio medio de electricidad	2024	6.6	5.8	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2015	59.3	65.3	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2016	64.0	87.2	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2017	63.8	78.2	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2018	67.4	81.0	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2019	69.3	85.0	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2020	71.7	81.2	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2021	75.7	87.9	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2022	77.2	89.6	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2023	73.7	81.4	0	
+Infraestructura	Relacionado	IF5-1	1	Centavos de S/ por kWh, constantes del 2025; para clientes regulados | Fuente: MINEM	Precio medio de electricidad	2024	67.7	78.2	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2015	1.9	2.7	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2016	1.9	2.8	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2017	2.1	3.2	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2018	2.2	3.3	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2019	2.3	3.5	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2020	0.8	1.4	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2021	1.4	2.4	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2022	2.0	3.4	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2023	2.2	3.9	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2024	2.4	4.3	0	
+Infraestructura	Principal	IF6	2	Puntaje del 0 al 10 | Fuente: INCORE	3.6 Densidad del transporte aéreo nacional	2025	2.6	4.3	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2015	664.5	778.0	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2016	710.3	807.2	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2017	756.1	919.0	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2018	804.9	958.8	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2019	860.9	1024.8	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2020	294.5	396.2	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2021	487.0	710.5	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2022	739.1	976.1	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2023	814.7	1134.9	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2024	913.4	1248.4	0	
+Infraestructura	Relacionado	IF6-1	2	Número de movimientos de pasajeros en vuelos nacionales (entrada y salida) por cada 1,000 habitantes | Fuente: INEI, CORPAC	Densidad del transporte aéreo nacional	2025	940.5	1254.1	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2015			0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2016	2.2	1.3	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2017	2.9	2.1	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2018	3.5	2.4	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2019	4.3	3.2	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2020	6.0	5.2	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2021	6.6	6.7	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2022	7.0	6.5	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2023	7.6	7.4	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2024	8.0	7.9	0	
+Infraestructura	Principal	IF7	2	Puntaje del 0 al 10 | Fuente: INCORE	3.7 Uso de internet	2025	8.3	8.4	0	
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2015			1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2016	32.4	16.9	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2017	38.6	23.4	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2018	44.1	25.7	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2019	49.5	32.5	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2020	61.5	48.6	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2021	64.5	60.2	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2022	68.3	58.8	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2023	72.9	65.8	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2024	75.3	70.1	1	creciente
+Infraestructura	Relacionado	IF7-1	2	Porcentaje de la población que usa internet | Fuente: INEI - ENAHO	Uso de internet	2025	76.5	74.1	1	creciente
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2015	5.4	5.4	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2016	5.8	6.7	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2017	5.9	6.7	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2018	6.1	7.2	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2019	6.2	6.9	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2020	6.2	7.1	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2021	6.4	6.8	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2022	6.3	6.8	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2023	6.5	7.1	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2024	6.4	7.3	0	
+Salud	Principal	SA1	3	Puntaje del 0 al 10 | Fuente: INCORE	4.1 Desnutrición crónica	2025	6.6	7.0	0	
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2015	14.4	16.3	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2016	13.1	12.1	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2017	12.9	12.1	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2018	12.2	10.5	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2019	12.2	11.5	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2020	12.1	10.8	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2021	11.5	11.7	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2022	11.7	11.7	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2023	11.6	10.8	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2024	12.1	10.0	1	decreciente
+Salud	Relacionado	SA1-1	3	Porcentaje de niños menores de 5 años que tienen una longitud o talla menor a la esperada para su edad y sexo según el patrón OMS (Patrón de referencia OMS) | Fuente: INEI - ENDES	Desnutrición crónica	2025	12.1	11.1	1	decreciente
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2015	4.3	3.4	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2016	3.9	2.1	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2017	4.2	1.8	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2018	4.2	2.8	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2019	5.3	3.2	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2020	5.6	4.3	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2021	6.0	5.4	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2022	4.7	2.0	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2023	4.7	4.3	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2024	4.3	5.4	0	
+Salud	Principal	SA2	3	Puntaje del 0 al 10 | Fuente: INCORE	4.2 Anemia infantil	2025	4.6	3.5	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2015	34.5	41.9	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2016	35.0	46.5	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2017	34.4	47.7	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2018	35.4	44.1	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2019	31.4	42.5	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2020	30.4	38.4	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2021	28.4	34.7	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2022	33.5	46.9	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2023	34.6	38.5	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2024	35.3	34.6	0	
+Salud	Relacionado	SA2-1	3	Porcentaje de niños de 6 a 35 meses de edad con prevalencia de anemia | INEI - ENDES	Anemia infantil	2025	34.9	41.3	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2015	2.2	1.8	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2016	3.8	4.2	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2017	6.1	5.8	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2018	6.7	7.5	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2019	7.5	7.6	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2020	4.7	4.8	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2021	5.9	5.4	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2022	6.2	6.0	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2023	7.5	7.5	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2024	8.0	8.9	0	
+Salud	Principal	SA3	3	Puntaje del 0 al 10 | Fuente: INCORE	4.3 Vacunación	2025	8.1	10.0	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2015	31.9	30.9	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2016	41.3	44.7	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2017	54.2	53.8	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2018	55.8	63.7	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2019	60.7	63.8	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2020	46.3	48.0	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2021	52.9	51.1	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2022	55.9	54.9	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2023	62.1	63.3	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2024	65.0	71.7	0	
+Salud	Relacionado	SA3-1	3	Porcentaje de menores de 36 meses con vacunas básicas completas para su edad | Fuente: INEI - ENDES	Vacunación	2025	65.8	78.8	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2015	5.4	2.4	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2016	5.7	3.0	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2017	5.8	4.1	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2018	6.0	3.2	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2019	7.2	7.2	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2020	7.6	6.0	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2021	8.1	7.9	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2022	7.0	5.9	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2023	7.2	6.3	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2024	7.2	5.3	0	
+Salud	Principal	SA4	2	Puntaje del 0 al 10 | Fuente: INCORE	4.4 Embarazo adolescente	2025	7.6	7.0	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2015	13.6	25.5	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2016	12.7	23.5	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2017	13.4	20.0	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2018	12.6	23.0	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2019	8.9	10.5	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2020	8.3	14.4	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2021	6.6	8.4	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2022	9.2	14.5	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2023	8.2	13.3	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2024	8.4	16.6	0	
+Salud	Relacionado	SA4-1	2	Porcentaje de adolescentes de 15 a 19 años que ya son madres o están embarazadas por primera vez | INEI - ENDES	Embarazo adolescente	2025	7.4	11.3	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2015	2.0	0.6	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2016	2.5	1.0	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2017	2.8	1.1	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2018	2.8	1.5	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2019	3.1	2.1	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2020	3.8	2.5	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2021	4.5	3.8	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2022	4.2	4.1	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2023	4.6	4.3	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2024	4.7	4.4	0	
+Salud	Principal	SA5	3	Puntaje del 0 al 10 | Fuente: INCORE	4.5 Cobertura del personal médico público	2025	4.6	4.4	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2015	6.7	4.5	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2016	7.7	5.0	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2017	7.8	5.1	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2018	7.9	5.7	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2019	8.3	6.5	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2020	9.2	7.0	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2021	10.1	8.9	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2022	9.6	9.3	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2023	10.3	9.6	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2024	10.1	9.7	0	
+Salud	Relacionado	SA5-1	3	Número de médicos en el sector público por cada 10,000 personas | MINSA	Cobertura del personal médico público	2025	10.1	9.7	0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2015			0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2016			0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2017			0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2018			0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2019			0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2020	5.5	2.6	0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2021	5.0	2.9	0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2022	5.6	3.8	0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2023	6.1	3.4	0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2024	7.2	4.1	0	
+Salud	Principal	SA6	3	Puntaje del 0 al 10 | Fuente: INCORE	4.6 Desabastecimiento de medicamentos	2025	7.6	5.7	0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2015			0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2016			0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2017			0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2018			0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2019			0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2020	27.0	38.9	0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2021	29.3	37.7	0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2022	27.2	34.3	0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2023	24.6	36.0	0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2024	21.1	33.2	0	
+Salud	Relacionado	SA6-1	3	Porcentaje de medicamentos desabastecidos o con substock del total de medicamentos | Fuente: DIGEMID	Desabastecimiento de medicamentos	2025	20.1	27.0	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2015	1.0	0.0	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2016	3.5	0.9	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2017	4.3	2.7	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2018	4.5	2.4	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2019	4.8	2.9	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2020	4.4	3.5	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2021	5.5	4.3	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2022	5.0	4.6	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2023	4.8	4.8	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2024	5.1	4.7	0	
+Salud	Principal	SA7	3	Puntaje del 0 al 10 | Fuente: INCORE	4.7 Camas hospitalarias	2025	5.1	4.7	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2015	0.3	0.0	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2016	1.0	0.2	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2017	1.1	0.6	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2018	1.1	0.5	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2019	1.2	0.6	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2020	1.1	0.7	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2021	1.2	0.9	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2022	1.2	1.0	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2023	1.1	1.0	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2024	1.2	1.0	0	
+Salud	Relacionado	SA7-1	3	Número de camas hospitalarias por cada 1,000 habitantes | Fuente: SUSALUD	Camas hospitalarias	2025	1.2	1.0	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2015	4.9	4.0	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2016	5.0	3.4	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2017	5.3	2.1	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2018	5.6	3.6	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2019	5.9	3.5	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2020	6.8	4.6	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2021	6.4	5.5	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2022	6.7	4.9	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2023	7.2	5.6	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2024	7.6	7.3	0	
+Educación	Principal	ED1	2	Puntaje del 0 al 10 | Fuente: INCORE	5.1 Conclusión secundaria	2025	7.7	7.3	0	
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2015	71.8	63.3	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2016	71.7	59.5	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2017	72.8	52.6	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2018	74.4	60.9	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2019	76.9	60.1	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2020	79.7	66.2	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2021	77.4	70.9	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2022	79.3	67.7	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2023	81.3	71.6	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2024	84.5	80.8	1	creciente
+Educación	Relacionado	ED1-1	2	Porcentaje de la población de 17-18 años que ha culminado la secundaria | INEI - ENAHO	Conclusión secundaria	2025	82.6	80.9	1	creciente
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2015			0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2016	4.0	4.1	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2017	4.0	2.4	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2018	4.8	3.8	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2019	4.6	3.1	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2020	4.6	3.1	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2021	4.6	3.1	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2022	3.6	0.9	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2023	4.3	1.7	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2024	4.3	3.8	0	
+Educación	Principal	ED2	3	Puntaje del 0 al 10 | Fuente: INCORE	5.2 Logro educativo en primaria en lectura	2025	4.3	2.2	0	
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2015			1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2016	31.4	20.8	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2017	31.4	20.8	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2018	34.8	27.6	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2019	34.5	24.2	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2020	34.5	24.2	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2021	34.5	24.2	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2022	30.0	13.5	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2023	33.0	17.3	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2024	32.8	18.9	1	creciente
+Educación	Relacionado	ED2-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en lectura | Fuente: MINEDU - ENLA	Logro educativo en primaria en lectura	2025	32.7	19.7	1	creciente
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2015			0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2016	3.4	2.0	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2017	3.4	2.0	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2018	4.3	2.6	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2019	4.9	3.3	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2020	4.9	3.3	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2021	4.9	3.3	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2022	3.2	1.1	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2023	3.1	1.2	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2024	4.2	2.0	0	
+Educación	Principal	ED3	3	Puntaje del 0 al 10 | Fuente: INCORE	5.3 Logro educativo en primaria en matemáticas	2025	4.3	2.5	0	
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2015			1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2016	25.2	16.0	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2017	25.2	16.0	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2018	30.7	20.0	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2019	34.0	24.1	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2020	34.0	24.1	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2021	34.0	24.1	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2022	23.3	10.9	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2023	22.5	11.5	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2024	29.5	16.3	1	creciente
+Educación	Relacionado	ED3-1	3	Porcentaje de los estudiantes de 4to de primaria con rendimiento satisfactorio en matemáticas | Fuente: MINEDU - ENLA	Logro educativo en primaria en matemáticas	2025	30.0	19.2	1	creciente
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2015	3.6	2.4	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2016	4.4	3.2	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2017	4.4	3.1	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2018	4.7	3.3	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2019	5.6	4.3	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2020	4.7	3.3	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2021	6.1	6.0	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2022	5.6	4.4	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2023	5.0	3.8	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2024	5.6	4.3	0	
+Educación	Principal	ED4	3	Puntaje del 0 al 10 | Fuente: INCORE	5.4 Colegios con acceso a internet	2025	4.9	3.4	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2015	40.1	29.4	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2016	47.4	35.6	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2017	47.0	34.8	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2018	49.7	36.6	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2019	56.3	44.3	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2020	49.1	36.4	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2021	58.5	58.0	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2022	55.3	44.8	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2023	50.6	40.5	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2024	55.2	44.2	0	
+Educación	Relacionado	ED4-1	3	Porcentaje de escuelas de primaria y secundaria con acceso a internet | Fuente: MINEDU	Colegios con acceso a internet	2025	50.0	37.2	0	
+Educación	Relacionado	ED4-2	3	Porcentaje de escuelas de primaria con acceso a internet | Fuente: MINEDU	IIEE - Primaria con acceso a internet	2023		-	1	creciente
+Educación	Relacionado	ED4-2	3	Porcentaje de escuelas de primaria con acceso a internet | Fuente: MINEDU	IIEE - Primaria con acceso a internet	2024		38.9	1	creciente
+Educación	Relacionado	ED4-2	3	Porcentaje de escuelas de primaria con acceso a internet | Fuente: MINEDU	IIEE - Primaria con acceso a internet	2025		30.2	1	creciente
+Educación	Relacionado	ED4-3	3	Porcentaje de escuelas de secundarias con acceso a internet | Fuente: MINEDU	IIEE - Secundaria con acceso a internet	2023		-	1	creciente
+Educación	Relacionado	ED4-3	3	Porcentaje de escuelas de secundarias con acceso a internet | Fuente: MINEDU	IIEE - Secundaria con acceso a internet	2024		38.9	1	creciente
+Educación	Relacionado	ED4-3	3	Porcentaje de escuelas de secundarias con acceso a internet | Fuente: MINEDU	IIEE - Secundaria con acceso a internet	2025		62.6	1	creciente
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2015	7.2	6.4		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2016	7.4	7.0		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2017	7.0	7.2		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2018	7.7	8.1		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2019	7.8	8.3		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2020	7.6	7.8		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2021	7.2	7.7		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2022	7.5	7.8		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2023	7.7	8.0		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2024	8.0	8.5		
+Educación	Principal	ED5	3	Puntaje del 0 al 10 | Fuente: INCORE	5.5 Locales escolares con acceso a electricidad	2025	8.6	8.9		
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2015	76.3	69.1	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2016	77.9	73.7	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2017	75.5	75.6	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2018	81.3	82.8	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2019	81.8	84.3	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2020	80.5	80.4	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2021	76.9	79.4	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2022	78.9	79.9	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2023	80.1	81.7	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2024	83.3	86.2	1	creciente
+Educación	Relacionado	ED5-1	3	Porcentaje de locales públicos y privados con acceso a electricidad por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a electricidad	2025	87.0	89.2	1	creciente
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2015	6.5	5.1		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2016	6.7	5.3		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2017	6.2	4.7		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2018	5.6	3.8		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2019	4.4	3.1		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2020	4.2	2.5		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2021	3.8	2.6		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2022	4.5	2.9		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2023	4.3	2.7		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2024	5.2	3.7		
+Educación	Principal	ED6	3	Puntaje del 0 al 10 | Fuente: INCORE	5.6 Locales escolares con acceso a agua	2025	5.5	3.8		
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2015	66.1	52.8	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2016	67.0	54.6	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2017	62.5	49.3	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2018	58.0	41.4	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2019	48.2	35.1	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2020	45.8	30.4	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2021	42.5	30.5	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2022	47.8	33.7	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2023	46.4	31.9	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2024	53.6	40.4	1	creciente
+Educación	Relacionado	ED6-1	3	Porcentaje de locales públicos y privados con acceso a agua por red pública | Fuente: MINEDU - CE	Locales escolares con acceso a agua	2025	56.1	41.6	1	creciente
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2015	6.1	5.0		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2016	6.3	5.4		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2017	5.8	4.9		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2018	5.5	3.7		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2019	6.1	5.4		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2020	6.1	5.2		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2021	4.5	3.6		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2022	4.6	3.5		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2023	4.6	3.6		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2024	4.9	3.7		
+Educación	Principal	ED7	3	Puntaje del 0 al 10 | Fuente: INCORE	5.7 Locales escolares con acceso a desagüe	2025	4.7	3.3		
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2015	69.2	60.6	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2016	70.5	63.9	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2017	67.7	59.7	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2018	65.1	50.7	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2019	69.3	63.9	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2020	69.9	61.9	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2021	57.1	49.7	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2022	57.3	49.2	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2023	57.5	49.7	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2024	59.4	50.6	1	creciente
+Educación	Relacionado	ED7-1	3	Porcentaje de locales públicos y privados con acceso a desagüe por medio de red pública o pozo séptico | Fuente: MINEDU - CE	Locales escolares con acceso a desagüe	2025	58.3	47.8	1	creciente
+Instituciones	Principal	IS1	3	Puntaje del 0 al 10 | Fuente: INCORE	6.1 Percepción de la gestión pública regional	2015	4.9	7.6		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 10	6.1 Percepción de la gestión pública regional	2016	4.2	5.4		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 11	6.1 Percepción de la gestión pública regional	2017	3.1	3.8		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 12	6.1 Percepción de la gestión pública regional	2018	2.3	3.2		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 13	6.1 Percepción de la gestión pública regional	2019	3.6	5.0		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 14	6.1 Percepción de la gestión pública regional	2020	3.1	5.6		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 15	6.1 Percepción de la gestión pública regional	2021	2.5	2.9		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 16	6.1 Percepción de la gestión pública regional	2022	1.8	1.8		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 17	6.1 Percepción de la gestión pública regional	2023	2.6	3.1		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 18	6.1 Percepción de la gestión pública regional	2024	2.4	3.8		
+Instituciones	Principal	IS1	3	Puntaje del 0 al 19	6.1 Percepción de la gestión pública regional	2025	2.0	3.1		
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2015	29.4	47.6	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2016	27.9	36.4	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2017	23.4	27.9	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2018	18.6	24.7	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2019	24.1	34.4	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2020	22.7	37.5	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2021	21.4	23.4	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2022	15.7	17.7	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2023	19.8	24.2	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2024	18.7	28.2	1	creciente
+Instituciones	Relacionado	IS1-1	3	Porcentaje de la población adulta que considera que la gestión pública del Gobierno Regional es buena o muy buena | Fuente: INEI - ENAHO	Percepción de la gestión pública regional	2025	16.3	24.3	1	creciente
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2015	2.6	0.9	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2016	2.8	1.2	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2017	2.6	1.1	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2018	2.5	1.1	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2019	2.7	1.2	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2020	1.6	0.8	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2021	2.5	1.2	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2022	2.8	1.1	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2023	2.9	1.3	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2024	2.9	1.3	0	
+Instituciones	Principal	IS2	1	Puntaje del 0 al 10 | Fuente: INCORE	6.2 Recaudación municipal por habitante	2025	2.9	1.5	0	
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2015	263.2	94.4	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2016	278.9	110.1	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2017	269.0	102.2	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2018	268.5	102.1	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2019	273.0	108.5	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2020	200.2	87.1	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2021	254.2	110.9	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2022	260.9	106.5	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2023	263.3	115.7	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2024	280.4	115.7	1	creciente
+Instituciones	Relacionado	IS2-1	1	Soles por habitante | Fuente: MEF	Recaudación municipal por habitante	2025	302.7	124.7	1	creciente
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2015	3.6	1.0	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2016	4.6	2.0	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2017	5.2	3.7	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2018	4.8	3.7	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2019	6.5	6.7	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2020	6.3	5.6	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2021	5.9	3.5	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2022	5.9	4.8	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2023	7.8	6.9	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2024	7.8	7.3	0	
+Instituciones	Principal	IS3	2	Puntaje del 0 al 10 | Fuente: INCORE	6.3 Atomización de proyectos	2025	7.9	7.8	0	
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2015	45.5	59.2	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2016	38.0	52.5	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2017	34.3	41.7	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2018	38.4	41.5	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2019	25.0	21.6	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2020	26.1	29.0	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2021	28.5	43.0	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2022	26.7	33.9	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2023	15.6	20.2	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2024	15.0	17.7	1	decreciente
+Instituciones	Relacionado	IS3-1	2	Porcentaje de proyectos de inversión pública con un monto de inversión menor o igual a S/ 500 mil | Fuente: MEF	Atomización de proyectos	2025	15.3	14.2	1	decreciente
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2015	4.9	4.4	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2016	5.0	4.8	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2017	5.5	6.2	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2018	4.6	3.8	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2019	4.4	4.2	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2020	2.1	1.9	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2021	3.5	4.3	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2022	4.1	5.1	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2023	4.0	4.2	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2024	3.6	3.8	0	
+Instituciones	Principal	IS4	1	Puntaje del 0 al 10 | Fuente: INCORE	6.4 Resolución de expedientes judiciales	2025	2.4	2.3	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2015	41	41	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2016	42	43	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2017	44	49	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2018	40	37	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2019	40	40	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2020	28	28	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2021	34	40	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2022	38	44	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2023	37	39	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2024	37	37	0	
+Instituciones	Relacionado	IS4-1	1	Expedientes resueltos del total de carga judicial (pendientes más ingresantes) | Fuente: Poder Judicial	Resolución de expedientes judiciales	2025	31	30	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2015	8.1	9.7	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2016	8.1	9.7	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2017	8.6	9.3	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2018	8.4	9.5	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2019	8.5	9.3	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2020	8.3	9.1	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2021	8.2	9.1	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2022	8.0	8.6	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2023	7.9	8.0	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2024	8.3	9.1	0	
+Instituciones	Principal	IS5	3	Puntaje del 0 al 10 | Fuente: INCORE	6.5 Conflictividad social	2025	8.1	9.8	0	
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2015	0.5	0.1	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2016	0.5	0.1	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2017	0.4	0.4	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2018	0.4	0.2	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2019	0.4	0.3	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2020	0.4	0.4	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2021	0.5	0.4	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2022	0.5	0.6	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2023	0.5	1.0	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2024	0.5	0.4	1	decreciente
+Instituciones	Relacionado	IS5-1	3	Conflictos sociales activos por cada 100,000 habitantes| Fuente: Defensoría del Pueblo	Conflictividad social	2025	0.5	0.1	1	decreciente
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2015	4.8	8.6	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2016	4.9	7.0	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2017	5.7	8.2	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2018	5.8	8.7	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2019	5.8	8.8	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2020	6.8	9.6	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2021	8.1	10.0	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2022	6.8	8.3	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2023	6.0	7.8	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2024	5.6	6.5	0	
+Instituciones	Principal	IS6	2	Puntaje del 0 al 10 | Fuente: INCORE	6.6 Victimización por hechos delictivos	2025	6.0	7.5	0	
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2015	30.8	13.5	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2016	28.8	19.4	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2017	26.4	15.0	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2018	25.7	12.9	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2019	26.6	12.6	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2020	23.4	9.9	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2021	18.2	8.4	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2022	22.9	14.5	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2023	27.1	16.3	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2024	27.1	20.9	1	decreciente
+Instituciones	Relacionado	IS6-1	2	Porcentaje de la población urbana de 15 y más años víctima de algún hecho delictivo en los últimos doce meses | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2025	25.3	17.4	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2015	15.9	4.8	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2016	14.2	4.4	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2017	13.4	4.4	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2018	12.6	4.2	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2019	14.3	4.2	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2020	12.8	3.1	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2021	8.6	1.9	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2022	10.8	3.3	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2023	12.2	4.6	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2024	11.3	4.3	1	decreciente
+Instituciones	Relacionado	IS6-2	2	Porcentaje de la población urbana de 15 y más años de edad, víctima de robo de dinero, cartera y celular | Fuente: INEI - ENAPRES	Victimización por hechos delictivos	2025	-	-	1	decreciente
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2015	5.1	4.9	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2016	4.8	4.5	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2017	4.7	5.7	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2018	4.7	5.7	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2019	4.4	5.9	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2020	3.9	3.4	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2021	3.6	3.0	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2022	3.1	3.9	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2023	3.0	2.5	0	
+Instituciones	Principal	IS7	2	Puntaje del 0 al 10 | Fuente: INCORE	6.7 Comisarías en buen estado	2024	2.9	2.6	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2015	53.3	47.9	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2016	50.7	43.8	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2017	46.8	56.0	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2018	46.8	56.0	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2019	43.2	57.8	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2020	37.5	33.3	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2021	34.2	28.9	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2022	30.0	37.8	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2023	29.0	24.4	0	
+Instituciones	Relacionado	IS7-1	2	Porcentaje de comisarías con  infraestructura en buen estado (paredes, piso y techo en buen estado) | Fuente: MININTER - CNC	Comisarías en buen estado	2024	29.3	25.3	0	

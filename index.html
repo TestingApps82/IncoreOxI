@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>INCORE San Martín - Portal Ejecutivo Interactivo</title>
+    <meta name="description"
+        content="Portal interactivo de análisis del Índice de Competitividad Regional (INCORE) de San Martín con comparativa regional." />
+
+    <!-- Hoja de estilos exclusiva para esta página -->
+    <link rel="stylesheet" href="/index.css" />
+</head>
+
+<body class="dark">
+
+    <!-- ======================================================================
+       CABECERA PERMANENTE (Siempre visible con botón de modo Claro/Oscuro)
+       ====================================================================== -->
+    <header class="header">
+        <div class="header-container">
+            <a href="/" class="brand-title">
+                Ing. ROITER <span>Egoavil Flores</span>
+            </a>
+
+            <!-- Botón permanente de cambio de tema: siempre en la misma ubicación -->
+            <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">
+                ☀️ <span>Modo Claro</span>
+            </button>
+        </div>
+    </header>
+
+    <!-- ======================================================================
+       ESCENARIO INTERACTIVO: 4 TARJETAS CON EXPANSIÓN AL CENTRO (90% ALTURA)
+       En reposo aparecen reducidas; al pasar el puntero, la tarjeta toma el centro.
+       ====================================================================== -->
+    <main class="main-container">
+        <div class="cards-stage" id="cards-stage">
+
+            <!-- ================================================================
+           TARJETA 1: FOTO Y DATOS DE CONTACTO
+           ================================================================ -->
+            <article class="card" id="card-1" data-index="1">
+                <!-- Vista Compacta (visible cuando la tarjeta está reducida) -->
+                <div class="card-compact-header">
+                    <img src="/img/icono_contacto.svg" class="card-icon-img" alt="Icono Contacto" />
+                    <h3 class="card-compact-title">Contacto</h3>
+                </div>
+
+                <!-- Vista Completa (se despliega al tomar el centro a 90% de altura) -->
+                <div class="card-full-content">
+                    <div class="card-full-header">
+                        <img src="/img/icono_contacto.svg" class="card-icon-img-large" alt="Icono Contacto" />
+                        <h2 class="card-full-title">DATOS PERSONALES Y CONTACTO</h2>
+                    </div>
+
+                    <div class="avatar-wrapper">
+                        <img id="profile-avatar-img" class="avatar-image" src="/img/perfil.jpg" alt="Foto de perfil" />
+                        <div id="profile-avatar-fallback" class="avatar-fallback" style="display: none;">
+                            R
+                        </div>
+                    </div>
+
+                    <div class="contact-details">
+                        <h1 class="person-name">ROITER</h1>
+                        <p class="person-title">Egoavil Flores</p>
+
+                        <h1 class="person-name">13 AÑOS</h1>
+                        <p class="person-title">DE EXPERIENCIA GENERAL</p>
+
+                        <div class="profile-summary-box">
+                            <p>
+                                Profesional con conocimiento y en promoción y
+                                gestión de proyectos públicos privados mediante Obras por Impuestos, Asociaciones
+                                Publico Privadas y Proyectos en Activos, elaboración de instrumentos de planeamiento
+                                estratégico, construcción de escenarios proyección de indicadores, elaboración de
+                                instrumentos de gestión de riesgo, gestión de espacios de concertación publico privados
+                                multisectoriales, presupuesto por resultados y programas presupuestales, formulación en
+                                propuestas de políticas públicas regionales.
+                            </p>
+                        </div>
+
+                        <div class="contact-list">
+                            <div class="contact-item">
+                                <span class="contact-icon">☎︎</span>
+                                <span class="contact-text">Cel.: 950 576 806</span>
+                            </div>
+                            <div class="contact-item">
+                                <span class="contact-icon">✉︎</span>
+                                <span class="contact-text">e-mail: RoiterEFM@gmail.com</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </article>
+
+            <!-- ================================================================
+           TARJETA 2: FORMACIÓN PROFESIONAL
+           ================================================================ -->
+            <article class="card" id="card-2" data-index="2">
+                <!-- Vista Compacta -->
+                <div class="card-compact-header">
+                    <img src="/img/icono_formacion.svg" class="card-icon-img" alt="Icono Formación" />
+                    <h3 class="card-compact-title">Formación</h3>
+                </div>
+
+                <!-- Vista Completa (Centro 90% altura) -->
+                <div class="card-full-content">
+                    <div class="card-full-header">
+                        <img src="/img/icono_formacion.svg" class="card-icon-img-large" alt="Icono Formación" />
+                        <h2 class="card-full-title">FORMACIÓN PROFESIONAL</h2>
+                    </div>
+
+                    <div class="timeline-list">
+                        <div class="timeline-item">
+                            <div class="timeline-head">TITULADO UNIVERSITARIO</div>
+                            <div class="timeline-institution">Universidad Nacional Agraria de la Selva</div>
+                            <p class="timeline-desc">Facultad de Recursos Naturales Renovables</p>
+                        </div>
+
+                        <div class="timeline-item">
+                            <div class="timeline-head">02 CICLOS DE ESTUDIOS DE MAESTRÍA</div>
+                            <div class="timeline-institution">Escuela de Posgrado de la Universidad Nacional Agraria de
+                                la Selva</div>
+                            <p class="timeline-desc">Agroecología - Gestión Ambiental</p>
+                        </div>
+
+                        <div class="timeline-item">
+                            <div class="timeline-head">DIPLOMADOS</div>
+                            <div class="timeline-institution">Proyectos de Inversión Pública</div>
+                            <div class="timeline-institution">Obras por Impuestos</div>
+                            <p class="timeline-desc">Otros cursos varios</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <!-- ================================================================
+           TARJETA 3: EXPERIENCIA PROFESIONAL
+           ================================================================ -->
+            <article class="card" id="card-3" data-index="3">
+                <!-- Vista Compacta -->
+                <div class="card-compact-header">
+                    <img src="/img/icono_experiencia.svg" class="card-icon-img" alt="Icono Experiencia" />
+                    <h3 class="card-compact-title">Experiencia</h3>
+                </div>
+
+                <!-- Vista Completa (Centro 90% altura) -->
+                <div class="card-full-content">
+                    <div class="card-full-header">
+                        <img src="/img/icono_experiencia.svg" class="card-icon-img-large" alt="Icono Experiencia" />
+                        <h2 class="card-full-title">EXPERIENCIA PROFESIONAL</h2>
+                    </div>
+
+                    <div class="timeline-list">
+                        <div class="timeline-item">
+                            <div class="timeline-head">09 MESES DE DOCENCIA UNIVERSITARIA EN LA UNAS
+                            </div>
+                            <div class="timeline-role">Docente auxiliar</div>
+                            <p class="timeline-desc">Cursos de especializacion hidraulica, SIG, otros.</p>
+                        </div>
+
+                        <div class="timeline-item">
+                            <div class="timeline-head">01 AÑO + 11 MESES EN LA AUTORIDAD REGIONAL AMBIENTAL
+                            </div>
+                            <div class="timeline-role">Proyecto de Formalización de la Propiedad Estatal en Lamas, Rioja
+                                y San Martín</div>
+                            <p class="timeline-desc">Técnico y Coordinador</p>
+                        </div>
+
+                        <div class="timeline-item">
+                            <div class="timeline-head">02 AÑOS + 08 MESES EN LA SUBGERENCIA DE PLANEAMIENTO ESTRATÉGICO
+                                Y ESTADÍSTICA REGIONAL - GRPyP - GRSM</div>
+                            <div class="timeline-role">Elaboración del PDRC, PEI y POI</div>
+                            <p class="timeline-desc">Consolidación de datos estadísticos a nivel regional</p>
+                        </div>
+
+                        <div class="timeline-item">
+                            <div class="timeline-head">08 AÑOS + 5 MESES EN LA OFICINA DE PROMOCIÓN DE LA INVERSIÓN
+                                PRIVADA SOSTENIBLE - GGR - GRSM </div>
+                            <div class="timeline-role">Impulso de proyectos mediante Obras por Impuestos, Asociaciones
+                                Público Privadasy Proyectos en Activos</div>
+                            <p class="timeline-desc">Organizar la participación del GRSM en foros nacionales de
+                                promoción de la inversión privada</p>
+                        </div>
+
+                        <div class="timeline-item">
+                            <div class="timeline-head">02 MESES EN LA GERENCIA REGIONAL DE DESARROLLO ECONÓMICO - GRSM
+                            </div>
+                            <div class="timeline-role">Coordinador Territorial</div>
+                            <p class="timeline-desc">Seguimiento de las inversiones y la operatividad de la Direcciones
+                                Regionales (DIREPRO + DIRCETUR + DRASAM + DREM)</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <!-- ================================================================
+           TARJETA 4: HABILIDADES Y CONOCIMIENTOS
+           ================================================================ -->
+            <article class="card" id="card-4" data-index="4">
+                <!-- Vista Compacta -->
+                <div class="card-compact-header">
+                    <img src="/img/icono_habilidades.svg" class="card-icon-img" alt="Icono Habilidades" />
+                    <h3 class="card-compact-title">Habilidades</h3>
+                </div>
+
+                <!-- Vista Completa (Centro 90% altura) -->
+                <div class="card-full-content">
+                    <div class="card-full-header">
+                        <img src="/img/icono_habilidades.svg" class="card-icon-img-large" alt="Icono Habilidades" />
+                        <h2 class="card-full-title">HABILIDADES Y CONOCIMIENTOS</h2>
+                    </div>
+
+                    <div class="skills-block">
+                        <div class="skill-category">
+                            <span class="skill-label">PLANEAMIENTO ESTRATÉGICO</span>
+                            <div class="skill-tags">
+                                <span class="tag">Planes Regionales</span>
+                                <span class="tag">Procesamiento Estadístico</span>
+                                <span class="tag">Presupuesto por Resultados</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <span class="skill-label">PROMOCION DE LA INVERSIÓN PRIVADA</span>
+                            <div class="skill-tags">
+                                <span class="tag">Elaboración de bases para procesos de selección</span>
+                                <span class="tag">Elaboración de flujos de caja de inversiones</span>
+                                <span class="tag">Proyección de documentación técnica y adminsitrativa</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <span class="skill-label">MANEJO DE SOFTWARE ESPECIALIZADO</span>
+                            <div class="skill-tags">
+                                <span class="tag">SIG</span>
+                                <span class="tag">CAD</span>
+                                <span class="tag">Base de datos</span>
+                                <span class="tag">Programación</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+        </div>
+
+        <div class="cta-container">
+        <!-- Botón INCORE -->
+            <button id="btn-iniciar-incore" class="cta-button">
+                <span class="titMay">INCORE</span>
+                <span class="titMid">Índice de Competividad Regional</span>
+                <span class="titMen">▶︎</span>
+            </button>
+
+            <!-- Botón OxI -->
+            <button id="btn-iniciar-oxi" class="cta-button">
+                <span class="titMay">OxI</span>
+                <span class="titMid">Obras por Impuestos</span>
+                <span class="titMen">▶︎</span>
+            </button>
+        </div>
+    </main>
+
+    <!-- ======================================================================
+       PIE DE PÁGINA (FOOTER)
+       ====================================================================== -->
+    <footer class="footer">
+        Desarrollo asistido con Inteligencia Artificial
+    </footer>
+
+    <!-- Script exclusivo en JavaScript para esta página -->
+    <script type="module" src="/index.js"></script>
+    <script src="/presentation.js" defer></script>
+</body>
+
+</html>

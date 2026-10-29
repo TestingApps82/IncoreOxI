@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OxI · Generador de flujograma de Inversiones</title>
+  <link rel="stylesheet" href="/oxi.css" />
+</head>
+<body class="dark" data-page="generador">
+  <header class="header">
+    <div class="header-container">
+      <div class="header-left">
+        <a href="/oxiProcesos.html" class="btn-back" title="Volver">◀︎</a>
+        <span class="header-title">Generador de flujograma · Inversiones</span>
+      </div>
+      <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">✴︎ <span>Modo Claro</span></button>
+    </div>
+  </header>
+  <main class="page">
+    <h1 class="page-title">Generador de flujograma de Inversiones</h1>
+    <p class="page-sub">Elige el tipo, el número de inversiones y los compromisos que asumirá la Empresa Privada; el flujograma se arma solo.</p>
+    <section class="gen-panel">
+      <div class="gen-presets" id="gen-presets"></div>
+      <div class="gen-row">
+        <label>Tipo de inversión
+          <select id="gen-tipo"><option value="proyecto">Proyecto de Inversión</option><option value="ioarr">IOARR</option></select></label>
+        <label>N° de inversiones a financiar
+          <input type="number" id="gen-n" min="1" max="20" value="1"></label>
+      </div>
+      <div class="gen-commit" id="gen-commit"></div>
+      <p class="gen-note" id="gen-note"></p>
+    </section>
+    <div class="flow-head"><div class="chips" id="gen-summary"></div><span class="flow-total" id="flow-total"></span></div>
+    <p class="page-sub">Haz clic en una fase para ver su detalle abajo.</p>
+    <div class="phases" id="phases"></div>
+    <div class="phase-detail" id="phase-detail" hidden><h2 id="pd-title"></h2><div class="flow" id="pd-flow"></div></div>
+  </main>
+  <script type="module" src="/oxi.js"></script>
+  <script src="/presentation.js" defer></script>
+</body>
+</html>

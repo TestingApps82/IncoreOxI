@@ -1,0 +1,79 @@
+Ubigeo	Distrito	Valor
+220302	Agua Blanca	0
+220902	Alberto Leveau	0
+220502	Alonso de Alvarado	0
+220202	Alto Biavo	0
+220402	Alto Saposoa	0
+220802	Awajun	0
+220203	Bajo Biavo	0
+220503	Barranquita	0
+220201	Bellavista	0
+220702	Buenos Aires	0
+220903	Cacatachi	0
+220102	Calzada	0
+220602	Campanilla	0
+220703	Caspisapa	0
+220504	Caynarachi Cumplimiento y la ejecución del proyecto de mejoramiento de la carretera vecinal en la ruta SM660, tramo Convento – Pintuyaquillo – Pintuyacu – Nuevo Lamas – Copal	1
+220904	Chazuta	0
+220905	Chipurana	0
+220505	Cuñumbuqui	0
+220403	El Eslabón	0
+220906	El Porvenir	0
+220803	Elías Soplín Vargas	0
+220103	Habana	0
+220204	Huallaga	0
+220603	Huicungo	0
+220907	Huimbayoc La comunidad nativa de Santa Rosillo de Yanayacu enfrenta discrepancias internas en el proceso de titulación	1
+220104	Jepelacio	0
+220908	Juan Guerra	0
+220601	Juanjuí	0
+220909	La Banda de Shilcayo	0
+220501	Lamas	0
+220910	Morales	0
+220101	Moyobamba	0
+220804	Nueva Cajamarca	0
+221002	Nuevo Progreso	0
+220604	Pachiza	0
+220605	Pajarillo	0
+220911	Papaplaya	0
+220805	Pardo Miguel	0
+220701	Picota	0
+220704	Pilluana	0
+220506	Pinto Recodo	0
+220404	Piscoyacu	0
+221003	Pólvora	0
+220806	Posic	0
+220705	Pucacaca	0
+220801	Rioja	0
+220507	Rumisapa	0
+220405	Sacanche	0
+220912	San Antonio	0
+220706	San Cristóbal	0
+220807	San Fernando	0
+220707	San Hilarión	0
+220301	San José de Sisa	0
+220303	San Martín	0
+220205	San Pablo	0
+220206	San Rafael	0
+220508	San Roque de Cumbaza	0
+221006	Santa Lucía	0
+220304	Santa Rosa	0
+220401	Saposoa	0
+220913	Sauce	0
+220708	Shamboyacu	0
+220509	Shanao	0
+220914	Shapaja	0
+220305	Shatoja	0
+221004	Shunté	0
+220105	Soritor Demanda del Sindicato de Trabajadores de Construcción Civil de Soritor para el cumplimiento de la Ordenanza Regional N.° 014020200GRSM/CR	1
+220510	Tabalosos	0
+220901	Tarapoto	0
+220709	Tingo de Ponasa	0
+220406	Tingo de Saposoa	0
+221001	Tocache	0
+220710	Tres Unidos	0
+221005	Uchiza	0
+220106	Yantalo	0
+220808	Yorongos	0
+220809	Yuracyacu	0
+220511	Zapatero	0

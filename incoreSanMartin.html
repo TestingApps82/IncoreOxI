@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INCORE San Martín - Red Orbital Territorial & Indicadores 2015–2025</title>
+  <meta name="description"
+    content="Red orbital interactiva de los 6 pilares y 42 indicadores del INCORE San Martín con análisis multianual y variables relacionadas." />
+
+  <!-- Hoja de estilos exclusiva para la vista San Martín -->
+  <link rel="stylesheet" href="/incoreSanMartin.css" />
+</head>
+
+<body class="dark">
+
+  <!-- ======================================================================
+       CABECERA MINIMALISTA Y DE CONTROL
+       ====================================================================== -->
+  <header class="header">
+    <div class="header-container">
+      <div class="header-left">
+        <a href="/incore.html" class="btn-back" title="Volver al Portal INCORE">
+          ◀︎
+        </a>
+      </div>
+
+      <div class="header-center" id="header-center-tools">
+        <!-- Botón Indicadores INCORE -->
+        <button id="btn-indicators-incore" class="tool-btn" title="Muestra los indicadores del INCORE">
+          <span class="tool-icon">⌨︎</span>
+          <span>Indicadores INCORE</span>
+        </button>
+
+        <!-- Botón Indicadores de base -->
+        <button id="btn-indicadores-base" class="tool-btn" title="Muestra los indicadores de soporte">
+          <span class="tool-icon">⬇︎</span>
+          <span>Indicadores de soporte</span>
+        </button>
+
+        <!-- Botones de realce por nivel de competencia del Gobierno Regional (se pueden combinar) -->
+        <button id="btn-highlight-control-1" class="tool-btn"
+          title="Realzar indicadores con Baja competencia del Gobierno Regional (Nivel 1)">
+          <span class="tool-icon">◔</span>
+          <span>Baja competencia del GRSM</span>
+        </button>
+
+        <button id="btn-highlight-control-2" class="tool-btn"
+          title="Realzar indicadores con Media competencia del Gobierno Regional (Nivel 2)">
+          <span class="tool-icon">◑</span>
+          <span>Media competencia del GRSM</span>
+        </button>
+
+        <!-- Botón de realce de nivel de control del Gobierno Regional -->
+        <button id="btn-highlight-control" class="tool-btn"
+          title="Realzar indicadores con Alto Control del Gobierno Regional (Nivel 3)">
+          <span class="tool-icon">☀︎</span>
+          <span>Alta competencia del GRSM</span>
+        </button>
+
+        <!-- Botón para reiniciar vista orbital -->
+        <button id="btn-reset-view" class="tool-btn" title="Volver al centro del mapa orbital">
+          <span class="tool-icon">♻︎</span>
+          <span>Reiniciar</span>
+        </button>
+      </div>
+
+      <div class="header-right">
+        <!-- Botón permanente de cambio de tema: siempre en la misma ubicación -->
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">
+          ✴︎ <span>Modo Claro</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================================================================
+       ESCENARIO PRINCIPAL: RED ORBITAL Y PANELES DINÁMICOS
+       ====================================================================== -->
+  <main class="main-universe" id="main-universe">
+
+    <!-- Halos de iluminación dinámica de fondo -->
+    <div class="universe-halo universe-halo-glow" id="universe-halo-glow"></div>
+    <div class="universe-halo universe-halo-orbit" id="universe-halo-orbit"></div>
+
+    <!-- NÚCLEO ORBITAL (SISTEMA DE ESFERAS Y RED DE 42 INDICADORES) -->
+    <div class="orbital-system" id="orbital-system">
+
+      <!-- Lienzo SVG con coordenadas locales internas (800x800) para conectores exactos que nunca se desprenden -->
+      <svg class="orbital-svg-lines" id="orbital-svg-lines" viewBox="0 0 800 800"
+        xmlns="http://www.w3.org/2000/svg"></svg>
+
+      <!-- Esfera San Martín (Núcleo central y detonador exclusivo del sistema) -->
+      <div class="sphere sphere-san-martin" id="circle-san-martin"
+        title="Haz clic en San Martín para desplegar los indicadores principales">
+        <div class="sphere-pulse-ring"></div>
+        <div class="sphere-inner">
+          <span class="sphere-label-incore">INCORE</span>
+          <span class="sphere-label-sm">SAN MARTÍN</span>
+        </div>
+      </div>
+
+      <!-- Contenedor dinámico de los 6 Pilares Orbitales -->
+      <div class="pillars-orbit-layer" id="pillars-orbit-layer"></div>
+
+      <!-- Contenedor dinámico de los 42 Indicadores Principales -->
+      <div class="indicators-orbit-layer" id="indicators-orbit-layer"></div>
+
+    </div>
+
+    <!-- ======================================================================
+         PANEL SUPERIOR DERECHO / ÁREA UNIFICADA DE GRÁFICAS Y TARJETAS
+         (Centrado verticalmente, más ancho para aprovechar el espacio)
+         ====================================================================== -->
+    <aside class="panel-top-right" id="panel-top-right">
+      <div class="panel-card glass-panel" id="main-indicator-card">
+
+        <!-- Cabecera del Indicador Seleccionado -->
+        <div class="indicator-header">
+          <div class="indicator-tags-row">
+            <span class="pilar-badge" id="chart-pilar-badge">Entorno Económico</span>
+            <span class="control-badge" id="chart-control-badge"
+              title="Nivel de Control por el Gobierno Regional">Control 2 · Medio</span>
+          </div>
+          <h2 class="indicator-title" id="chart-indicator-title">1.1 PBI real en logaritmos</h2>
+          <span class="unit-badge" id="chart-unit-badge">Unidad: Logaritmo</span>
+        </div>
+
+        <!-- Métricas comparativas rápidas 2025 -->
+        <div class="metrics-strip" id="metrics-strip">
+          <div class="metric-item">
+            <span class="metric-lbl">San Martín</span>
+            <span class="metric-val val-sm" id="val-sm-current">-</span>
+          </div>
+          <div class="metric-item">
+            <span class="metric-lbl">Perú</span>
+            <span class="metric-val val-pe" id="val-pe-current">-</span>
+          </div>
+          <div class="metric-item">
+            <span class="metric-lbl">Variación</span>
+            <span class="metric-val val-trend" id="val-trend-current">-</span>
+          </div>
+        </div>
+
+        <!-- Contenedor del Gráfico Evolutivo Principal (2015 - 2025) -->
+        <div class="chart-wrapper" id="main-chart-wrapper">
+          <div class="chart-legend">
+            <span class="legend-chip chip-sm"><span class="legend-dot dot-sm"></span> San Martín</span>
+            <span class="legend-chip chip-pe"><span class="legend-dot dot-pe"></span> Perú</span>
+          </div>
+          <div class="svg-chart-container" id="main-svg-chart-container">
+            <!-- Gráfico SVG renderizado dinámicamente -->
+          </div>
+        </div>
+
+        <!-- ==================================================================
+             SECCIÓN DE VARIABLES RELACIONADAS: DENTRO DE PANEL-TOP-RIGHT,
+             DEBAJO DEL GRÁFICO PRINCIPAL
+             ================================================================== -->
+        <section class="related-section-under-chart" id="related-section-under-chart">
+
+          <!-- MODO A: TARJETAS DE VARIABLES RELACIONADAS -->
+          <div class="related-cards-view" id="related-cards-view">
+            <div class="cards-view-header">
+              <div class="cards-header-info">
+                <span class="deck-count-pill" id="deck-count-pill">0 vinculadas</span>
+              </div>
+            </div>
+
+            <!-- Contenedor de Tarjetas debajo del gráfico -->
+            <div class="cards-track" id="cards-track">
+              <!-- Tarjetas renderizadas dinámicamente desde /DATA -->
+            </div>
+          </div>
+
+          <!-- MODO B: GRÁFICO DE VARIABLE RELACIONADA SELECCIONADA + CONTROL DEL EXPOSITOR -->
+          <div class="related-chart-view" id="related-chart-view" style="display: none;">
+
+            <!-- Barra de Controles para el Expositor -->
+            <div class="related-toolbar">
+              <button id="btn-back-to-cards" class="btn-return-cards" title="Regresar a las tarjetas">
+                ◀︎
+              </button>
+
+              <div class="related-meta-center">
+                <span class="step-indicator" id="related-step-indicator">Variable 1 de 2</span>
+              </div>
+            </div>
+
+            <div class="related-variable">
+              <h4 class="related-active-title" id="related-active-title">PBI a precios constantes</h4>
+              <span class="related-active-unit" id="related-active-unit">S/ Millones 2007</span>
+            </div>
+
+            <!-- Gráfico Evolutivo de la Variable Relacionada (2015-2025) -->
+            <div class="related-chart-body">
+              <div class="chart-wrapper-secondary" id="secondary-chart-wrapper">
+                <div class="chart-legend-secondary">
+                  <span class="legend-chip chip-sm"><span class="legend-dot dot-sm"></span> San Martín</span>
+                  <span class="legend-chip chip-pe"><span class="legend-dot dot-pe"></span> Perú</span>
+                </div>
+
+                <div class="svg-chart-container-secondary" id="secondary-svg-chart-container">
+                  <!-- Gráfico SVG de la variable relacionada -->
+                </div>
+
+                <div class="nav-secondary-var" id="secondary-nav">
+                  <button id="btn-chevron-prev-var" class="chevron-ribbon-btn" title="Regresar a las tarjetas">
+                    ⏮︎
+                  </button>
+                  <button id="btn-chevron-next-var" class="chevron-ribbon-btn" title="Regresar a las tarjetas">
+                    ⏭︎
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </aside>
+  </main>
+
+  <!-- Script con toda la lógica orbital exclusiva de San Martín -->
+  <script type="module" src="/incoreSanMartin.js"></script>
+  <script src="/presentation.js" defer></script>
+</body>
+
+</html>

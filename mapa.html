@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INCORE San Martín · Mapa distrital</title>
+  <link rel="stylesheet" href="/incoreSanMartin.css" />
+  <style>
+    body {
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #info {
+      padding: .7rem 1.4rem;
+      display: flex;
+      gap: 1.2rem;
+      align-items: baseline;
+      flex-wrap: wrap;
+    }
+
+    #ttl {
+      font-size: 1.7rem;
+      font-weight: 800;
+    }
+
+    #anio {
+      font-size: 5rem;
+      font-weight: 800;
+      color: rgb(143, 216, 161);;
+    }
+
+    #sub {
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+
+    #stage {
+      flex: 1;
+      min-height: 0;
+      position: relative;
+      display: flex;
+    }
+
+    #map {
+      flex: 1;
+      min-width: 0;
+    }
+
+    #map path {
+      stroke: var(--bg-page);
+      stroke-width: 1;
+      vector-effect: non-scaling-stroke;
+      transition: filter .15s;
+      cursor: pointer;
+    }
+
+    #map path:hover {
+      stroke: var(--text-main);
+      stroke-width: 3;
+      filter: brightness(1.15);
+    }
+
+    #side {
+      width: 300px;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: .6rem;
+      font-size: .8rem;
+    }
+
+    #ramp {
+      height: 14px;
+      border-radius: 7px;
+      background: linear-gradient(90deg, hsl(221, 46%, 88%), hsl(239, 58%, 64%), hsl(234, 78%, 49%));
+    }
+
+    #ramp-l {
+      display: flex;
+      justify-content: space-between;
+      color: var(--text-muted);
+    }
+
+    #tip {
+      position: fixed;
+      pointer-events: none;
+      display: none;
+      z-index: 50;
+      background: var(--bg-card);
+      border: 1px solid var(--accent);
+      border-radius: 8px;
+      padding: .4rem .7rem;
+      font-size: .8rem;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, .4);
+    }
+
+    #msg {
+      padding: 2rem;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+
+<body class="dark">
+  <header class="header">
+    <div class="header-container">
+      <div id="ttl">Cargando…</div>
+      <button id="theme-toggle-btn" class="theme-toggle-btn">Tema</button>
+    </div>
+  </header>
+  <div id="info"><span id="sub"></span></div>
+  <div id="stage">
+    <svg id="map" preserveAspectRatio="xMidYMid meet"></svg>
+    <aside id="side">
+      <strong id="unit"></strong>
+      <div id="ramp"></div>
+      <div id="ramp-l"><span>Peor</span><span>Mejor</span></div>
+      <div id="range" style="color:var(--text-muted)"></div>
+      <div id="anio">2025</div>
+    </aside>
+  </div>
+  <div id="tip"></div>
+  <div id="msg" style="display:none"></div>
+
+  <script>
+    // ---- Ajusta aquí los nombres de campos de tu shapefile (después de convertirlo) ----
+    const FIELD_UBIGEO = ['UBIGEO', 'IDDIST', 'ubigeo'];
+    const FIELD_NAME = ['DISTRITO', 'NOMBDIST', 'distrito'];
+    const PATH_GEOJSON = '/DATA/distritos.geojson';
+    const PATH_VALUES = id => `/DATA/distritos/${id}.txt`;   // Ubigeo \t Distrito \t Valor
+    const PATH_META = '/DATA/datos_incore_sanmartin.txt';
+
+    const $ = id => document.getElementById(id);
+    // Busca el campo sin distinguir mayúsculas/minúsculas (Ubigeo = UBIGEO = ubigeo)
+    const pick = (p, keys) => {
+      const low = Object.fromEntries(Object.keys(p).map(k => [k.toLowerCase(), p[k]]));
+      for (const k of keys) { const v = low[k.toLowerCase()]; if (v != null && String(v).trim() !== '') return String(v).trim(); }
+      return '';
+    };
+    const num = s => { const t = String(s).replace(/\s/g, '').replace(',', '.'); return /^-?\d+(\.\d+)?$/.test(t) ? parseFloat(t) : NaN; }; // '-' o vacío => sin dato
+    const fmt = v => v.toLocaleString('es-PE', { maximumFractionDigits: Math.abs(v) >= 1000 ? 0 : 2 });
+
+    // Tema compartido con el resto de la app
+    const dark = (localStorage.getItem('incore_theme') || 'dark') === 'dark';
+    document.body.classList.toggle('dark', dark);
+    $('theme-toggle-btn').onclick = () => { localStorage.setItem('incore_theme', document.body.classList.toggle('dark') ? 'dark' : 'light'); };
+
+    (async () => {
+      const id = new URLSearchParams(location.search).get('id');
+      const fail = t => { $('msg').style.display = 'block'; $('msg').textContent = t; $('stage').style.display = 'none'; };
+      if (!id) return fail('Falta el parámetro ?id= del indicador.');
+
+      try {
+        // Metadatos del indicador (nombre, unidad, sentido) desde la tabla principal
+        const meta = (await (await fetch(PATH_META)).text()).split(/\r?\n/).map(l => l.split('\t').map(c => c.trim())).find(c => c[2] === id);
+        if (!meta) return fail(`El indicador ${id} no existe en datos_incore_sanmartin.txt`);
+        const [, , , , unidad, nombre, , , , , sentido] = meta;
+        const creciente = (sentido || '').toLowerCase().startsWith('crec');
+        $('ttl').textContent = nombre; $('unit').textContent = unidad;
+        $('sub').textContent = `Sentido de mejora: ${creciente ? 'CRECIENTE (mayor valor = mejor)' : 'DECRECIENTE (menor valor = mejor)'}`;
+
+        // Valores por distrito (tolera BOM, separador tab / ; / coma, y valida la respuesta)
+        const url = PATH_VALUES(id);
+        const res = await fetch(url);
+        if (!res.ok) return fail(`No se encontró el archivo de valores: ${url} (HTTP ${res.status}). Debe estar en /DATA/distritos/${id}.txt`);
+        const raw = (await res.text()).replace(/^\uFEFF/, '');
+        const lines = raw.split(/\r?\n/).filter(l => l.trim());
+        const sep = /\t/.test(lines[0] || '') ? '\t' : /;/.test(lines[0] || '') ? ';' : ',';
+        const digits = x => String(x).replace(/\D/g, '').padStart(6, '0');
+        const vals = new Map();
+        lines.slice(1).forEach(l => {
+          const c = l.split(sep).map(x => x.trim());
+          if (c.length >= 3 && c[0]) vals.set(digits(c[0]), { name: c[1], v: num(c[c.length - 1]) });
+        });
+        console.log(`[MAPA ${id}] ${url} · separador "${sep === '\t' ? 'TAB' : sep}" · ${vals.size} filas · ejemplo:`, [...vals.entries()][0]);
+        if (vals.size === 0) return fail(`El archivo ${url} no tiene filas válidas. Primeros caracteres recibidos: "${raw.slice(0, 80).replace(/\s+/g, ' ')}"`);
+        const nums = [...vals.values()].map(o => o.v).filter(v => !isNaN(v));
+        const min = Math.min(...nums), max = Math.max(...nums);
+        $('range').textContent = `Mínimo: ${fmt(min)} | Máximo: ${fmt(max)}`;
+        //$('ramp-l').innerHTML = creciente ? `<span>${fmt(min)}</span><span>${fmt(max)}</span>` : `<span>${fmt(max)}</span><span>${fmt(min)}</span>`;
+        $('ramp-l').innerHTML = `<span>${fmt(min)}</span><span>${fmt(max)}</span>`;
+        // Rampa: verde = mejor. creciente → mayor=verde ; decreciente → menor=verde
+        const color = v => {
+          let t = (v - min) / (max - min || 1);
+          //if (!creciente) t = 1 - t;
+
+          // Definición de tus 3 colores [H, S, L]
+          const c1 = [221, 46, 88];
+          const c2 = [239, 58, 64];
+          const c3 = [234, 78, 49];
+
+          let h, s, l;
+
+          // 2. Interpolación por tramos
+          if (t <= 0.5) {
+            // Primer tramo: de c1 a c2 (mapeamos t de [0, 0.5] a)
+            let tTramo = t * 2;
+            h = c1[0] + (c2[0] - c1[0]) * tTramo;
+            s = c1[1] + (c2[1] - c1[1]) * tTramo;
+            l = c1[2] + (c2[2] - c1[2]) * tTramo;
+          } else {
+            // Segundo tramo: de c2 a c3 (mapeamos t de [0.5, 1] a)
+            let tTramo = (t - 0.5) * 2;
+            h = c2[0] + (c3[0] - c2[0]) * tTramo;
+            s = c2[1] + (c3[1] - c2[1]) * tTramo;
+            l = c2[2] + (c3[2] - c2[2]) * tTramo;
+          }
+          return `hsl(${Math.round(h)}, ${Math.round(s)}%, ${Math.round(l)}%)`;
+          //return `hsl(${Math.round(120 * t)},70%,45%)`;
+        };
+
+        // Geometría y proyección simple (equirectangular corregida por latitud)
+        const gj = await (await fetch(PATH_GEOJSON)).json();
+        const rings = f => f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates;
+        let x0 = 1e9, x1 = -1e9, y0 = 1e9, y1 = -1e9;
+        gj.features.forEach(f => rings(f).forEach(p => p[0].forEach(([x, y]) => { x0 = Math.min(x0, x); x1 = Math.max(x1, x); y0 = Math.min(y0, y); y1 = Math.max(y1, y); })));
+        const k = Math.cos(((y0 + y1) / 2) * Math.PI / 180);
+        const P = ([x, y]) => `${((x - x0) * k).toFixed(4)},${(y1 - y).toFixed(4)}`;
+        const svg = $('map'); svg.setAttribute('viewBox', `-0.02 -0.02 ${(x1 - x0) * k + 0.04} ${y1 - y0 + 0.04}`);
+
+        const tip = $('tip');
+        let matched = 0;
+        gj.features.forEach(f => {
+          const ub = digits(pick(f.properties, FIELD_UBIGEO)), d = vals.get(ub);
+          const el = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+          el.setAttribute('d', rings(f).map(poly => poly.map(r => 'M' + r.map(P).join('L') + 'Z').join('')).join(''));
+          el.setAttribute('fill', d && !isNaN(d.v) ? color(d.v) : 'rgba(90, 85, 85, 0.05)');
+          if (d) matched++;
+          const label = `<b>${pick(f.properties, FIELD_NAME) || (d && d.name) || ub}</b><br>${d && !isNaN(d.v) ? fmt(d.v) + ' ' + unidad : 'Sin dato'}`;
+          el.onmousemove = e => { tip.style.display = 'block'; tip.innerHTML = label; tip.style.left = e.clientX + 14 + 'px'; tip.style.top = e.clientY + 14 + 'px'; };
+          el.onmouseleave = () => tip.style.display = 'none';
+          svg.appendChild(el);
+        });
+        console.log(`[MAPA ${id}] distritos con coincidencia: ${matched} de ${gj.features.length}`);
+        if (matched === 0) $('sub').textContent += ' · ⚠ Ningún UBIGEO del txt coincide con el GeoJSON (revisa la consola F12)';
+      } catch (e) { console.error(e); fail('No se pudo cargar el mapa: ' + e.message); }
+    })();
+  </script>
+  <script src="/presentation.js" defer></script>
+</body>
+
+</html>

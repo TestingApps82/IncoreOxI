@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OxI · Tope Máximo de Capacidad Anual - CIPRL</title>
+  <link rel="stylesheet" href="/oxi.css" />
+</head>
+
+<body class="dark" data-page="tmca">
+  <header class="header">
+    <div class="header-container">
+      <div class="header-left">
+        <a href="/oxiEscenarios.html" class="btn-back" title="Volver">◀︎</a>
+      </div>
+      <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">
+        ✴︎ <span>Modo Claro</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="page">
+    <div class="tmca-header-row">
+      <h1 class="page-title">Tope Máximo de Capacidad Anual (CIPRL)</h1>
+      <span class="tmca-sub-badge">Simulador interactivo · Proyección a Junio 2027</span>
+    </div>
+
+    <!-- 3 Cards Principales de Cálculo y Proyección -->
+    <section class="tmca-summary-grid">
+      <!-- Card 1: CIPRL -->
+      <article class="tmca-metric-card card-ciprl">
+        <div class="tmca-card-badge">Tope Asignado</div>
+        <div class="tmca-card-label">Card 1: CIPRL</div>
+        <div class="tmca-card-value" id="tmca-val-ciprl">S/ 1'722,368,749</div>
+        <p class="tmca-card-desc">Límite de emisión CIPRL vigente</p>
+      </article>
+
+      <!-- Card 2: Procesos en curso (dinámico según checks) -->
+      <article class="tmca-metric-card card-procesos">
+        <div class="tmca-card-badge" id="tmca-count-badge">8 activos</div>
+        <div class="tmca-card-label">Card 2: Procesos en curso</div>
+        <div class="tmca-card-value" id="tmca-val-procesos">S/ 1'090,748,390.97</div>
+        <p class="tmca-card-desc">Sumatoria de procesos seleccionados</p>
+      </article>
+
+      <!-- Card 3: Saldo / Tope Máximo Capacidad Anual (Card 1 - Card 2) -->
+      <article class="tmca-metric-card card-diferencia">
+        <div class="tmca-card-badge badge-saldo">Capacidad Disponible</div>
+        <div class="tmca-card-label">Card 3: Tope máximo de capacidad anual 2027 (Junio)</div>
+        <div class="tmca-card-value" id="tmca-val-diferencia">S/ 631,620,358.03</div>
+        <p class="tmca-card-desc">Disponibilidad</p>
+      </article>
+    </section>
+
+    <!-- Barra de acciones rápidas para los procesos -->
+    <div class="tmca-toolbar">
+      <div class="tmca-toolbar-left">
+        <h2 class="tmca-section-title">Intervenciones del GRSM mediante OxI</h2>
+        <span class="tmca-counter-text" id="tmca-selection-status">Todos los procesos están seleccionados</span>
+      </div>
+      <div class="tmca-toolbar-actions">
+        <button id="btn-select-all" class="btn-tmca-filter">Seleccionar todos</button>
+        <button id="btn-deselect-all" class="btn-tmca-filter">Deseleccionar todos</button>
+      </div>
+    </div>
+
+    <!-- Rejilla de procesos (proc-card más pequeños y con checkbox) -->
+    <div class="tmca-proc-grid" id="tmca-grid">
+      <p class="empty-msg">Cargando intervenciones…</p>
+    </div>
+
+    <!-- Detalle desplegable opcional al hacer clic en una tarjeta -->
+    <section class="proc-detail" id="proc-detail" hidden></section>
+  </main>
+
+  <script type="module" src="/oxi.js"></script>
+  <script src="/presentation.js" defer></script>
+</body>
+
+</html>

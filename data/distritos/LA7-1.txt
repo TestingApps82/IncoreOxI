@@ -1,0 +1,79 @@
+Ubigeo	Distrito	Valor
+220101	Moyobamba	36.3
+220102	Calzada	100.0
+220103	Habana	70.1
+220104	Jepelacio	100.0
+220105	Soritor	74.1
+220106	Yantalo	-
+220201	Bellavista	-52.9
+220202	Alto Biavo	100.0
+220203	Bajo Biavo	100.0
+220204	Huallaga	-
+220205	San Pablo	100.0
+220206	San Rafael	100.0
+220301	San José de Sisa	100.0
+220302	Agua Blanca	-
+220303	San Martín	100.0
+220304	Santa Rosa	-36.6
+220305	Shatoja	78.6
+220401	Saposoa	100.0
+220402	Alto Saposoa	-
+220403	El Eslabón	-
+220404	Piscoyacu	100.0
+220405	Sacanche	-7.6
+220406	Tingo de Saposoa	-
+220501	Lamas	-51.8
+220502	Alonso de Alvarado	6.3
+220503	Barranquita	100.0
+220504	Caynarachi	100.0
+220505	Cuñumbuqui	100.0
+220506	Pinto Recodo	100.0
+220507	Rumisapa	-
+220508	San Roque de Cumbaza	-
+220509	Shanao	-
+220510	Tabalosos	100.0
+220511	Zapatero	-
+220601	Juanjuí	-2.1
+220602	Campanilla	100.0
+220603	Huicungo	100.0
+220604	Pachiza	-
+220605	Pajarillo	100.0
+220701	Picota	100.0
+220702	Buenos Aires	7.3
+220703	Caspisapa	0.0
+220704	Pilluana	-
+220705	Pucacaca	-
+220706	San Cristóbal	-
+220707	San Hilarión	100.0
+220708	Shamboyacu	100.0
+220709	Tingo de Ponasa	-
+220710	Tres Unidos	100.0
+220801	Rioja	100.0
+220802	Awajun	36.7
+220803	Elías Soplín Vargas	63.9
+220804	Nueva Cajamarca	65.9
+220805	Pardo Miguel	-18.4
+220806	Posic	100.0
+220807	San Fernando	-97.6
+220808	Yorongos	-
+220809	Yuracyacu	100.0
+220901	Tarapoto	33.3
+220902	Alberto Leveau	-
+220903	Cacatachi	-
+220904	Chazuta	28.1
+220905	Chipurana	-
+220906	El Porvenir	-
+220907	Huimbayoc	100.0
+220908	Juan Guerra	100.0
+220909	La Banda de Shilcayo	32.7
+220910	Morales	13.1
+220911	Papaplaya	100.0
+220912	San Antonio	62.3
+220913	Sauce	-82.5
+220914	Shapaja	-
+221001	Tocache	-40.3
+221002	Nuevo Progreso	100.0
+221003	Pólvora	100.0
+221004	Shunté	-
+221005	Uchiza	-4.0
+221006	Santa Lucía	-

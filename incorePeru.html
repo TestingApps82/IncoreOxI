@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INCORE PERÚ - Análisis Multianual y por Pilares</title>
+  <meta name="description" content="Portal de análisis comparativo regional INCORE Perú multianual y por pilares." />
+  
+  <!-- Hoja de estilos exclusiva para esta página -->
+  <link rel="stylesheet" href="/incorePeru.css" />
+</head>
+<body class="dark">
+
+  <!-- ======================================================================
+       CABECERA PERMANENTE CON SELECTOR DE VISTAS Y PILARES
+       Solo 2026, 6 Pilares, Volver y Modo Claro/Oscuro
+       ====================================================================== -->
+  <header class="header">
+    <div class="header-container">
+      <div class="header-left">
+        <a href="/incore.html" class="btn-back" title="Volver al nodo central">
+          ◀︎
+        </a>
+        <span class="header-title">INCORE PERÚ</span>
+      </div>
+
+      <!-- Selector en banda superior: Solo 2026 + Botón para cada pilar -->
+      <nav class="view-selector-nav" id="view-selector-nav" aria-label="Selector de Pilares e INCORE">
+        <button id="btn-view-solo-2026" class="nav-btn active" data-view="solo-2026" title="Visualizar clasificación general INCORE 2026">
+          <span class="nav-btn-icon">⭐</span>
+          <span class="nav-btn-text">Solo 2026</span>
+        </button>
+
+        <button id="btn-view-incore-hist" class="nav-btn" data-view="incore-general" title="Visualizar histórico general INCORE 2021 al 2026">
+          <span class="nav-btn-icon">📈</span>
+          <span class="nav-btn-text">INCORE (2021–2026)</span>
+        </button>
+
+        <span class="nav-separator" aria-hidden="true"></span>
+
+        <button id="btn-pilar-entorno-economico" class="nav-btn" data-view="pilar-entorno-economico" title="Pilar Entorno Económico">
+          <img src="/img/pilar_economico.svg" alt="" class="nav-pilar-icon" />
+          <span class="nav-btn-text">Entorno Económico</span>
+        </button>
+
+        <button id="btn-pilar-infraestructura" class="nav-btn" data-view="pilar-infraestructura" title="Pilar Infraestructura">
+          <img src="/img/pilar_infraestructura.svg" alt="" class="nav-pilar-icon" />
+          <span class="nav-btn-text">Infraestructura</span>
+        </button>
+
+        <button id="btn-pilar-educacion" class="nav-btn" data-view="pilar-educacion" title="Pilar Educación">
+          <img src="/img/pilar_educacion.svg" alt="" class="nav-pilar-icon" />
+          <span class="nav-btn-text">Educación</span>
+        </button>
+
+        <button id="btn-pilar-salud" class="nav-btn" data-view="pilar-salud" title="Pilar Salud">
+          <img src="/img/pilar_salud.svg" alt="" class="nav-pilar-icon" />
+          <span class="nav-btn-text">Salud</span>
+        </button>
+
+        <button id="btn-pilar-laboral" class="nav-btn" data-view="pilar-laboral" title="Pilar Laboral">
+          <img src="/img/pilar_laboral.svg" alt="" class="nav-pilar-icon" />
+          <span class="nav-btn-text">Laboral</span>
+        </button>
+
+        <button id="btn-pilar-instituciones" class="nav-btn" data-view="pilar-instituciones" title="Pilar Instituciones">
+          <img src="/img/pilar_instituciones.svg" alt="" class="nav-pilar-icon" />
+          <span class="nav-btn-text">Instituciones</span>
+        </button>
+      </nav>
+
+      <div class="header-right">
+        <!-- Selector de Estilo de Gráficos (Estilo 1: Barras / Estilo 2: Eje Vertical) -->
+        <div class="style-toggle-container" id="style-toggle-container" role="radiogroup" aria-label="Estilo de gráficos">
+          <button id="btn-style-bars" class="btn-style-pill active" data-style="bars" title="Estilo 1: Barras horizontales clásicas">
+            <span class="style-pill-icon">📊</span>
+            <span class="style-pill-text">Barras</span>
+          </button>
+          <button id="btn-style-vertical" class="btn-style-pill" data-style="vertical" title="Estilo 2: Eje Vertical de puntos con etiquetas alternadas">
+            <span class="style-pill-icon">📍</span>
+            <span class="style-pill-text">Eje Vertical</span>
+          </button>
+        </div>
+
+        <span class="header-divider" aria-hidden="true"></span>
+
+        <!-- Botón permanente de cambio de tema: siempre en la misma ubicación -->
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">
+          ☀️ <span>Modo Claro</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================================================================
+       ESCENARIO DINÁMICO DE PRESENTACIÓN (UNA SOLA FILA A 95% DE ALTURA)
+       Sin etiquetas externas, solo títulos de gráficos
+       ====================================================================== -->
+  <main class="presentation-viewport" id="viewport">
+    <!-- Contenedor de la única fila de gráficos seleccionada -->
+    <div class="single-row-stage" id="charts-stage"></div>
+  </main>
+
+  <!-- Script exclusivo en JavaScript para esta página -->
+  <script type="module" src="/incorePeru.js"></script>
+  <script src="/presentation.js" defer></script>
+</body>
+</html>

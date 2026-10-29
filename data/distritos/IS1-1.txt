@@ -1,0 +1,79 @@
+Ubigeo	Distrito	Valor
+220101	Moyobamba	6.1
+220102	Calzada	12.0
+220103	Habana	0.0
+220104	Jepelacio	4.5
+220105	Soritor	1.4
+220106	Yantalo	-
+220201	Bellavista	7.9
+220202	Alto Biavo	16.0
+220203	Bajo Biavo	16.7
+220204	Huallaga	-
+220205	San Pablo	22.5
+220206	San Rafael	20.0
+220301	San José de Sisa	12.1
+220302	Agua Blanca	-
+220303	San Martín	15.8
+220304	Santa Rosa	13.5
+220305	Shatoja	15.8
+220401	Saposoa	7.7
+220402	Alto Saposoa	-
+220403	El Eslabón	-
+220404	Piscoyacu	13.7
+220405	Sacanche	5.6
+220406	Tingo de Saposoa	-
+220501	Lamas	4.6
+220502	Alonso de Alvarado	3.7
+220503	Barranquita	11.1
+220504	Caynarachi	7.4
+220505	Cuñumbuqui	4.1
+220506	Pinto Recodo	11.8
+220507	Rumisapa	-
+220508	San Roque de Cumbaza	-
+220509	Shanao	-
+220510	Tabalosos	8.0
+220511	Zapatero	-
+220601	Juanjuí	8.0
+220602	Campanilla	16.4
+220603	Huicungo	22.3
+220604	Pachiza	-
+220605	Pajarillo	12.5
+220701	Picota	10.4
+220702	Buenos Aires	16.7
+220703	Caspisapa	8.3
+220704	Pilluana	-
+220705	Pucacaca	-
+220706	San Cristóbal	-
+220707	San Hilarión	16.8
+220708	Shamboyacu	3.1
+220709	Tingo de Ponasa	-
+220710	Tres Unidos	15.0
+220801	Rioja	5.4
+220802	Awajun	3.2
+220803	Elías Soplín Vargas	12.1
+220804	Nueva Cajamarca	7.5
+220805	Pardo Miguel	5.4
+220806	Posic	18.2
+220807	San Fernando	20.0
+220808	Yorongos	-
+220809	Yuracyacu	7.1
+220901	Tarapoto	10.4
+220902	Alberto Leveau	-
+220903	Cacatachi	-
+220904	Chazuta	21.0
+220905	Chipurana	-
+220906	El Porvenir	-
+220907	Huimbayoc	12.3
+220908	Juan Guerra	7.1
+220909	La Banda de Shilcayo	14.1
+220910	Morales	12.7
+220911	Papaplaya	15.0
+220912	San Antonio	18.8
+220913	Sauce	0.0
+220914	Shapaja	-
+221001	Tocache	7.0
+221002	Nuevo Progreso	6.1
+221003	Pólvora	16.4
+221004	Shunté	-
+221005	Uchiza	8.3
+221006	Santa Lucía	-

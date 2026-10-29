@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OxI · Procesos</title>
+  <link rel="stylesheet" href="/oxi.css" />
+</head>
+<body class="dark" data-page="procesos">
+  <header class="header">
+    <div class="header-container">
+      <div class="header-left">
+        <a href="/oxi.html" class="btn-back" title="Volver">◀︎</a>
+      </div>
+      <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Cambiar modo de iluminación">✴︎ <span>Modo Claro</span></button>
+    </div>
+  </header>
+  <main class="page">
+    <section id="flow-list">
+      <h1 class="page-title">OBRAS POR IMPUESTOS: Procesos</h1>
+      <div class="cards-grid" id="flow-grid"><p class="empty-msg">Cargando…</p></div>
+    </section>
+    <section id="flow-view" hidden>
+      <button class="btn-back btn-back-flow" id="btn-flow-back">◀︎ Procesos</button>
+      <div class="flow-head"><h1 class="page-title" id="flow-title"></h1><span class="flow-total" id="flow-total"></span></div>
+      <p class="page-sub">Flujograma general por fases. Haz clic en una fase para ver su detalle abajo.</p>
+      <div class="phases" id="phases"></div>
+      <div class="phase-detail" id="phase-detail" hidden><h2 id="pd-title"></h2><div class="flow" id="pd-flow"></div></div>
+    </section>
+  </main>
+  <script type="module" src="/oxi.js"></script>
+  <script src="/presentation.js" defer></script>
+</body>
+</html>

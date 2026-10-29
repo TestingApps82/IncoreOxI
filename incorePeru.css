@@ -1,0 +1,972 @@
+/* ==========================================================================
+   INCORE PERÚ - ESTILOS DEL ANÁLISIS MULTIANUAL Y POR PILARES
+   Puro CSS con variables nativas para Modo Claro y Modo Oscuro
+   ========================================================================== */
+
+/* Variables para Modo Claro */
+:root {
+  --bg-page: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-subtle: #f1f5f9;
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --border: rgba(55, 97, 236, 0.918);
+  --border-header: rgba(125, 100, 238, 0.884);
+  --border-focus: #cbd5e1;
+  --accent: #059669;
+  --accent-light: #ecfdf5;
+  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  --shadow-lg: 0 16px 32px -8px rgba(0, 0, 0, 0.12);
+  --bar-blue: #3b82f6;
+  --bar-red: #ef4444;
+  --bar-peru: #0f172a;
+  --font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Variables para Modo Oscuro */
+body.dark {
+  --bg-page: #090d16;
+  --bg-card: #111827;
+  --bg-subtle: #1f2937;
+  --text-main: #f8fafc;
+  --text-muted: #eeb6fc;
+  --border: rgba(83, 115, 221, 0.918);
+  --border-header: rgba(130, 83, 216, 0.712);
+  --border-focus: #475569;
+  --accent: #10b981;
+  --accent-light: #064e3b;
+  --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 20px 45px -10px rgba(0, 0, 0, 0.6);
+  --bar-blue: #60a5fa;
+  --bar-red: #f87171;
+  --bar-peru: #ffffff;
+}
+
+/* Reset y caja base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--bg-page);
+  color: var(--text-main);
+  line-height: 1.35;
+  transition: background-color 0.25s ease, color 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ==========================================================================
+   CABECERA Y SELECTOR DE VISTAS (SOLO 2026 + 6 PILARES)
+   ========================================================================== */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  padding: 0.4rem 1.25rem;
+  height: 56px;
+  box-sizing: border-box;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+  flex-shrink: 0;
+}
+
+.header-container {
+  max-width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-shrink: 0;
+}
+
+.btn-back {
+  text-decoration: none;
+  font-weight: 700;
+  width: 150px;
+  justify-content: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border: 1px solid var(--border-header);
+  padding: 0.4rem 0.85rem;
+  border-radius: 4px;
+  background-color: var(--bg-subtle);
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+}
+
+.btn-back:hover {
+  color: var(--text-main);
+  border-color: var(--accent);
+}
+
+.header-title {
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: var(--text-main);
+}
+
+/* Selector horizontal en cabecera */
+.view-selector-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding: 2px 0;
+  flex: 1;
+  justify-content: center;
+}
+
+.view-selector-nav::-webkit-scrollbar {
+  display: none;
+}
+
+.nav-btn {
+  background-color: var(--bg-subtle);
+  color: var(--text-main);
+  border: 1px solid var(--border);
+  padding: 0.32rem 0.65rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  flex-shrink: 0;
+  user-select: none;
+}
+
+.nav-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background-color: var(--accent-light);
+  transform: translateY(-1px);
+}
+
+.nav-btn.active {
+  background-color: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.35);
+  font-weight: 700;
+}
+
+.nav-btn-icon {
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+.nav-pilar-icon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.nav-separator {
+  width: 1px;
+  height: 20px;
+  background-color: var(--border);
+  margin: 0 0.2rem;
+  flex-shrink: 0;
+}
+
+/* Botón permanente de tema y selector de estilo */
+.header-right {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  gap: 0.5rem;
+}
+
+/* Selector de estilo de gráfico (Barras / Eje Vertical) */
+.style-toggle-container {
+  display: inline-flex;
+  align-items: center;
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2px;
+  gap: 2px;
+}
+
+.btn-style-pill {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  padding: 0.28rem 0.65rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.76rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  user-select: none;
+}
+
+.btn-style-pill:hover {
+  color: var(--text-main);
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.btn-style-pill.active {
+  background-color: var(--accent);
+  color: #ffffff;
+  font-weight: 700;
+  box-shadow: 0 1px 4px rgba(16, 185, 129, 0.35);
+}
+
+.style-pill-icon {
+  font-size: 0.82rem;
+  line-height: 1;
+}
+
+.header-divider {
+  width: 1px;
+  height: 20px;
+  background-color: var(--border);
+  margin: 0 0.1rem;
+  flex-shrink: 0;
+}
+
+.theme-toggle-btn {
+  background-color: var(--bg-subtle);
+  color: #2e8af3;
+  border: 1px solid var(--border);
+  padding: 0.4rem;
+  justify-content: center;  
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  width: 150px;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ==========================================================================
+   ESCENARIO DE PRESENTACIÓN (UNA SOLA FILA A 95% DEL ALTO DE LA VISTA)
+   ========================================================================== */
+.presentation-viewport {
+  height: calc(100vh - 56px);
+  max-height: calc(100vh - 56px);
+  width: 100%;
+  padding: 0.5rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-sizing: border-box;
+  position: relative;
+}
+
+/* Contenedor de la única fila de gráficos */
+.single-row-stage {
+  height: 95%;
+  min-height: 95%;
+  max-height: 95%;
+  display: flex;
+  align-items: stretch;
+  gap: 1.25rem;
+  box-sizing: border-box;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.stage-single-focus {
+  justify-content: center;
+  width: 100%;
+}
+
+.stage-multi-row {
+  justify-content: flex-start;
+  width: max-content;
+}
+
+.chart-card-solo {
+  width: min(540px, 94vw);
+  height: 100%;
+  margin: 0 auto;
+}
+
+.chart-card-multi {
+  width: clamp(390px, calc((100vh - 110px) * 0.52), 480px);
+  flex: 0 0 clamp(390px, calc((100vh - 110px) * 0.52), 480px);
+  height: 100%;
+}
+
+/* ==========================================================================
+   GRÁFICO DE BARRAS HORIZONTALES (95% ALTURA, SIN SUBTÍTULOS NI ETIQUETAS EXTERNAS)
+   ========================================================================== */
+.chart-wrapper {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.65rem 0.95rem;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.chart-heading {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: var(--text-main);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.25rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-shrink: 0;
+}
+
+.chart-heading-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.chart-header-icon {
+  width: 17px;
+  height: 17px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.chart-rows-list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 0;
+  gap: 1px;
+  overflow: hidden;
+}
+
+/* Cada fila regional */
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-height: 14px;
+  max-height: 32px;
+}
+
+.region-label {
+  width: 115px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-main);
+  text-align: right;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+
+.bar-track {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.bar-fill {
+  height: 85%;
+  max-height: 24px;
+  min-height: 14px;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 6px;
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 800;
+  font-family: ui-monospace, monospace;
+  box-sizing: border-box;
+  transition: width 0.3s ease;
+}
+
+/* ==========================================================================
+   REGLA DE TRANSPARENCIA Y REALCE SOLICITADA POR EL USUARIO:
+   - San Martín: 0 de transparencia (opaco 1.0), con su color natural según posición y REALCE
+   - Primer puesto (Rank 1): 0 de transparencia (opaco 1.0)
+   - Último puesto (Rank 25): 0 de transparencia (opaco 1.0)
+   - Para las demás regiones: 60% de transparencia (opacity 0.40)
+   ========================================================================== */
+.bar-fill.bar-standard {
+  opacity: 0.40 !important;
+}
+
+.bar-fill.bar-rank-first {
+  opacity: 1.0 !important;
+  box-shadow: 0 0 6px rgba(59, 130, 246, 0.4);
+}
+
+.bar-fill.bar-rank-last {
+  opacity: 1.0 !important;
+  box-shadow: 0 0 6px rgba(239, 68, 68, 0.4);
+}
+
+/* REALCE DE SAN MARTÍN (Color natural de la gráfica + 0 transparencia + Realce visual) */
+.bar-fill.bar-san-martin {
+  opacity: 1.0 !important;
+  z-index: 5;
+  font-weight: 900;
+  letter-spacing: 0.02em;
+  /* Anillo de realce de alto contraste para Modo Claro */
+  outline: 2px solid #0f172a;
+  outline-offset: -1px;
+  box-shadow: 0 0 0 1px #0f172a, 0 3px 8px rgba(15, 23, 42, 0.25) !important;
+  position: relative;
+}
+
+/* En Modo Oscuro: Anillo blanco luminiscente con halo de resplandor */
+body.dark .bar-fill.bar-san-martin {
+  outline: 2px solid #ffffff;
+  outline-offset: -1px;
+  box-shadow: 0 0 0 1px #ffffff, 0 0 14px rgba(255, 255, 255, 0.65), 0 3px 10px rgba(0, 0, 0, 0.6) !important;
+}
+
+/* Destacado de toda la fila de San Martín para rápida identificación visual */
+.bar-row.is-sm {
+  background-color: rgba(15, 23, 42, 0.06);
+  border-radius: 4px;
+  padding: 1px 4px;
+  border-left: 3px solid #0f172a;
+  margin: 1px 0;
+}
+
+body.dark .bar-row.is-sm {
+  background-color: rgba(255, 255, 255, 0.09);
+  border-left: 3px solid #ffffff;
+}
+
+.bar-row.is-sm .region-label {
+  font-weight: 900 !important;
+  color: var(--text-main) !important;
+  letter-spacing: -0.01em;
+}
+
+.bar-fill.bar-peru-avg {
+  opacity: 1.0 !important;
+  background-color: var(--bar-peru) !important;
+  color: #ffffff !important;
+}
+
+body.dark .bar-fill.bar-peru-avg {
+  color: #090d16 !important;
+}
+
+.bar-row.is-peru .region-label {
+  font-weight: 800;
+  color: var(--text-main);
+}
+
+/* ==========================================================================
+   ESTILO 2: EJE VERTICAL DE PUNTOS CON ETIQUETAS ALTERNADAS (IMAGE.PNG)
+   Colores fieles a las barras, etiquetas izquierda/derecha, anti-solapamiento
+   ========================================================================== */
+.vertical-axis-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-height: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.vertical-axis-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Líneas sutiles de la grilla horizontal */
+.v-grid-line {
+  stroke: var(--border);
+  stroke-width: 1;
+  stroke-dasharray: 2, 3;
+  opacity: 0.65;
+}
+
+/* Eje central vertical */
+.v-axis-line {
+  stroke: var(--text-muted);
+  stroke-width: 1.6;
+  opacity: 0.8;
+}
+
+/* Texto de la escala (0.0 a 10.0) a la izquierda */
+.v-tick-text {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 13px;
+  fill: var(--text-muted);
+  font-weight: 600;
+  text-anchor: end;
+}
+
+/* Grupos interactivos de fila/punto */
+.v-row-group {
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.vertical-axis-svg:hover .v-row-group {
+  opacity: 0.55;
+}
+
+.vertical-axis-svg:hover .v-row-group:hover {
+  opacity: 1 !important;
+}
+
+/* Líneas conectoras hacia las etiquetas (Leader Lines) */
+.v-leader-line {
+  fill: none;
+  stroke-width: 1.2;
+  opacity: 0.6;
+  transition: stroke-width 0.15s ease, opacity 0.15s ease;
+}
+
+.v-row-group:hover .v-leader-line {
+  stroke-width: 2.2;
+  opacity: 1;
+}
+
+/* Puntos en el eje vertical */
+.v-dot {
+  transition: r 0.15s ease, filter 0.15s ease, stroke-width 0.15s ease;
+}
+
+.v-row-group:hover .v-dot {
+  r: 7.5;
+  filter: drop-shadow(0 0 6px currentColor);
+}
+
+/* San Martín en eje vertical */
+.v-dot-sm {
+  stroke: #ffffff !important;
+  stroke-width: 2px !important;
+  filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.85));
+}
+
+body:not(.dark) .v-dot-sm {
+  stroke: #0f172a !important;
+  stroke-width: 2px !important;
+  filter: drop-shadow(0 0 4px rgba(15, 23, 42, 0.6));
+}
+
+/* Etiquetas de texto con alternancia */
+.v-label-text {
+  font-family: var(--font-family);
+  font-size: 12.5px;
+  transition: transform 0.15s ease;
+  user-select: none;
+}
+
+.v-label-region {
+  fill: var(--text-main);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.v-label-stat {
+  font-weight: 800;
+  font-family: ui-monospace, SFMono-Regular, monospace;
+  font-size: 11px;
+}
+
+.v-row-group:hover .v-label-region {
+  font-weight: 800;
+}
+
+/* San Martín destacado en texto */
+.v-row-group.is-sm .v-label-region {
+  font-weight: 900;
+  fill: var(--text-main);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+}
+
+/* Tooltip emergente para el eje vertical */
+.v-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background-color: var(--bg-card);
+  color: var(--text-main);
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  padding: 5px 9px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+  z-index: 100;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  transform: translate(-50%, -120%);
+  white-space: nowrap;
+}
+
+.v-tooltip.visible {
+  opacity: 1;
+}
+
+/* ==========================================================================
+   CAPA DE PRESENTACIÓN (antes en presentation.css, ahora integrada aquí)
+   Solo efectos visuales y herramientas de exposición. Los COLORES se definen
+   únicamente al inicio del archivo (:root y body.dark); aquí no se repiten.
+   ========================================================================== */
+:root {
+  --ease: cubic-bezier(.16, 1, .3, 1);
+}
+
+
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-focus) transparent;
+}
+
+/* Fondo ambiental: aurora lenta y muy tenue detrás de todo el contenido */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(60vw 50vh at 12% 8%, rgba(16, 185, 129, .10), transparent 70%),
+    radial-gradient(55vw 55vh at 92% 92%, rgba(59, 130, 246, .09), transparent 70%);
+  animation: auroraShift 28s ease-in-out infinite alternate;
+}
+
+body.dark::before {
+  background:
+    radial-gradient(60vw 50vh at 12% 8%, rgba(16, 185, 129, .16), transparent 70%),
+    radial-gradient(55vw 55vh at 92% 92%, rgba(56, 189, 248, .12), transparent 70%);
+}
+
+@keyframes auroraShift {
+  to {
+    transform: translate3d(2.5vw, -2vh, 0) scale(1.06);
+  }
+}
+
+/* Entrada suave de página */
+body {
+  animation: pageIn .7s var(--ease) both;
+}
+
+@keyframes pageIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+/* Cabecera de cristal con filo luminoso */
+.header {
+  background: color-mix(in srgb, var(--bg-card) 78%, transparent) !important;
+  backdrop-filter: blur(14px) saturate(1.3);
+  -webkit-backdrop-filter: blur(14px) saturate(1.3);
+  box-shadow: 0 1px 0 var(--border), 0 10px 30px -18px rgba(0, 0, 0, .45);
+}
+
+.header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+  opacity: .55;
+}
+
+/* Botones: elevación y foco accesible */
+.btn-back,
+.theme-toggle-btn,
+.tool-btn,
+.nav-btn,
+.cta-button {
+  transition: transform .25s var(--ease), box-shadow .25s ease, border-color .2s ease, background-color .2s ease, color .2s ease;
+}
+
+.btn-back:hover,
+.theme-toggle-btn:hover,
+.tool-btn:hover,
+.nav-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px -10px var(--accent);
+}
+
+.cta-button {
+  box-shadow: 0 10px 26px -10px var(--accent);
+}
+
+.cta-button:hover {
+  box-shadow: 0 14px 32px -10px var(--accent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Tarjetas y paneles: relieve y brillo superior */
+.card,
+.chart-wrapper,
+.glass-panel,
+.var-card {
+  box-shadow: 0 14px 40px -22px rgba(0, 0, 0, .55), inset 0 1px 0 rgba(255, 255, 255, .06);
+}
+
+.glass-panel {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border)) !important;
+}
+
+body.dark .card:hover {
+  box-shadow: 0 0 0 1px var(--accent), 0 18px 44px -20px rgba(16, 185, 129, .45);
+}
+
+/* Red orbital: nodo activo "respira" y los gráficos aparecen con suavidad */
+.indicator-node.active-indicator,
+.pillar-node.active-pillar {
+  animation: nodeBreath 3.2s ease-in-out infinite;
+}
+
+@keyframes nodeBreath {
+  50% {
+    filter: drop-shadow(0 0 14px var(--accent));
+  }
+}
+
+.svg-chart-container svg circle,
+.svg-chart-container-secondary svg circle,
+.svg-chart-container svg text,
+.svg-chart-container-secondary svg text {
+  animation: fadeUp .6s var(--ease) both;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+  }
+}
+
+/* ---------------- Barra flotante de exposición ---------------- */
+#present-bar {
+  position: fixed;
+  left: 10px;
+  bottom: 50px;
+  z-index: 300;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 2px;
+  background: color-mix(in srgb, var(--bg-card) 82%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 12px 32px -14px rgba(0, 0, 0, .6);
+  opacity: .35;
+  transition: opacity .3s ease;
+}
+
+#present-bar:hover,
+#present-bar:focus-within {
+  opacity: 1;
+}
+
+#present-bar button {
+  all: unset;
+  cursor: pointer;
+  padding: 6px 11px;
+  border-radius: 4px;
+  font: 600 .78rem system-ui, sans-serif;
+  color: var(--text-main);
+  border: 1px solid transparent;
+  transition: all .2s ease;
+}
+
+#present-bar button:hover {
+  background: var(--bg-subtle);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+#present-bar button.on {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* Puntero láser */
+#laser {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  margin: -9px 0 0 -9px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #fff 0 20%, #ff3b3b 35%, rgba(255, 59, 59, .0) 72%);
+  box-shadow: 0 0 18px 6px rgba(255, 59, 59, .55);
+  pointer-events: none;
+  z-index: 9999;
+  display: none;
+}
+
+body.laser-on #laser {
+  display: block;
+}
+
+body.laser-on {
+  cursor: none;
+}
+
+/* Modo exposición: texto mayor, cursor que se oculta, sin elementos accesorios */
+html.presenting {
+  font-size: 112.5%;
+}
+
+body.presenting .footer {
+  display: none;
+}
+
+body.presenting.idle {
+  cursor: none;
+}
+
+body.presenting.idle #present-bar {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Pantalla negra (pausa) y ayuda */
+#blackout {
+  position: fixed;
+  inset: 0;
+  background: #000;
+  z-index: 9998;
+  display: none;
+}
+
+body.blackout #blackout {
+  display: block;
+}
+
+#help-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9997;
+  display: none;
+  place-items: center;
+  background: rgba(3, 7, 15, .72);
+  backdrop-filter: blur(6px);
+}
+
+body.help #help-overlay {
+  display: grid;
+}
+
+#help-overlay .help-card {
+  background: var(--bg-card);
+  color: var(--text-main);
+  border: 1px solid var(--accent);
+  border-radius: 16px;
+  padding: 1.4rem 1.8rem;
+  min-width: min(420px, 90vw);
+  box-shadow: 0 30px 70px -20px rgba(0, 0, 0, .7);
+}
+
+.help-card h3 {
+  margin-bottom: .8rem;
+  color: var(--accent);
+}
+
+.help-card div {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: .3rem 0;
+  font-size: .9rem;
+  border-bottom: 1px dashed var(--border);
+}
+
+.help-card kbd {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0 .5rem;
+  font-family: ui-monospace, monospace;
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition-duration: .01ms !important;
+  }
+}
+
+@media print {
+
+  #present-bar,
+  #laser,
+  #help-overlay,
+  #blackout {
+    display: none !important;
+  }
+}
