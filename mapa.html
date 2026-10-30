@@ -130,9 +130,9 @@
     // ---- Ajusta aquí los nombres de campos de tu shapefile (después de convertirlo) ----
     const FIELD_UBIGEO = ['UBIGEO', 'IDDIST', 'ubigeo'];
     const FIELD_NAME = ['DISTRITO', 'NOMBDIST', 'distrito'];
-    const PATH_GEOJSON = '/DATA/distritos.geojson';
-    const PATH_VALUES = id => `/DATA/distritos/${id}.txt`;   // Ubigeo \t Distrito \t Valor
-    const PATH_META = '/DATA/datos_incore_sanmartin.txt';
+    const PATH_GEOJSON = 'data/distritos.geojson';
+    const PATH_VALUES = id => `data/distritos/${id}.txt`;   // Ubigeo \t Distrito \t Valor
+    const PATH_META = 'data/datos_incore_sanmartin.txt';
 
     const $ = id => document.getElementById(id);
     // Busca el campo sin distinguir mayúsculas/minúsculas (Ubigeo = UBIGEO = ubigeo)
