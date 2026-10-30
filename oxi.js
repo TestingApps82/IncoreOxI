@@ -1,7 +1,7 @@
 // ==========================================================================
 // OxI · lógica de las 4 vistas (menú, claves, procesos, escenarios). Se elige por <body data-page="...">
 // ==========================================================================
-const BASE = '/DATA/oxi';                       // carpeta de datos: DATA/oxi/claves y DATA/oxi/flujos
+const BASE = 'data/oxi';                       // carpeta de datos: DATA/oxi/claves y DATA/oxi/flujos
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
 document.addEventListener('DOMContentLoaded', () => {
