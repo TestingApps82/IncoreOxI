@@ -1,0 +1,451 @@
+{
+ "_nota": "Bloques de pasos [Fase, Proceso, Días]. Los usa el generador; edítalos aquí.",
+ "bloques": {
+  "prio": [
+   [
+    "Priorización",
+    "Aprobación de la lista de priorización: en Gobiernos Regionales, Gobiernos Locales y Universidades Públicas, por acuerdo del Consejo Regional, del Concejo Municipal o del Consejo Universitario o la Comisión Organizadora; en el Gobierno Nacional, por resolución del titular de la Entidad. Facultad indelegable; plazo de hasta 30 días hábiles desde la comunicación de la OPMI (art. 57.6)",
+    "30 hábiles"
+   ]
+  ],
+  "iniciativa": [
+   [
+    "Priorización",
+    "Iniciativa privada: la Entidad comunica la relevancia o el rechazo de la propuesta (art. 63)",
+    "20 hábiles"
+   ],
+   [
+    "Priorización",
+    "La Empresa Privada atiende el requerimiento de información de la Entidad, de haberlo (art. 63)",
+    "20 hábiles"
+   ],
+   [
+    "Priorización",
+    "La Empresa Privada comunica el inicio y el cronograma de los estudios (art. 63)",
+    "5 hábiles"
+   ],
+   [
+    "Priorización",
+    "La Empresa Privada elabora y presenta el estudio de preinversión (arts. 62, 64)",
+    ""
+   ],
+   [
+    "Priorización",
+    "Registro del Proyecto de Inversión en el Banco de Inversiones (art. 64)",
+    "5 hábiles"
+   ]
+  ],
+  "actualiza_pre": [
+   [
+    "Priorización",
+    "La Empresa Privada financia la actualización de la ficha técnica o del estudio de preinversión; la Entidad fija antes el costo a reembolsar, hasta 2% del Monto Total de Inversión (arts. 66-67)",
+    ""
+   ]
+  ],
+  "comite": [
+   [
+    "Actos previos",
+    "Designación del comité especial (art. 70)",
+    "5 hábiles"
+   ]
+  ],
+  "bases_p": [
+   [
+    "Actos previos",
+    "Elaboración de las bases por el comité especial (art. 75)",
+    "10 hábiles"
+   ]
+  ],
+  "bases_i": [
+   [
+    "Actos previos",
+    "Elaboración de las bases por el comité especial (art. 75)",
+    "5 hábiles"
+   ]
+  ],
+  "bases_agr": [
+   [
+    "Actos previos",
+    "Elaboración de las bases del agrupamiento de {n} inversiones (art. 75)",
+    "15 hábiles"
+   ]
+  ],
+  "legal": [
+   [
+    "Actos previos",
+    "Informe legal favorable del área legal (art. 70.7)",
+    "5 hábiles"
+   ]
+  ],
+  "cgr_p": [
+   [
+    "Actos previos",
+    "Informe previo de la CGR (art. 80.2)",
+    "10 hábiles"
+   ]
+  ],
+  "cgr_p2": [
+   [
+    "Actos previos",
+    "Informe previo de la CGR para dos o más proyectos (art. 80.2)",
+    "15 hábiles"
+   ]
+  ],
+  "cgr_i": [
+   [
+    "Actos previos",
+    "Informe previo de la CGR (art. 80.2)",
+    "7 hábiles"
+   ]
+  ],
+  "cgr_i2": [
+   [
+    "Actos previos",
+    "Informe previo de la CGR para dos o más IOARR (art. 80.2)",
+    "10 hábiles"
+   ]
+  ],
+  "impl": [
+   [
+    "Actos previos",
+    "Informe de implementación de las recomendaciones de la CGR, de ser el caso (art. 81.2)",
+    "3 hábiles"
+   ]
+  ],
+  "aprob": [
+   [
+    "Actos previos",
+    "Aprobación de las bases por el titular de la Entidad (art. 81.3)",
+    "5 hábiles"
+   ]
+  ],
+  "aprob_simple": [
+   [
+    "Actos previos",
+    "Aprobación de las bases por el titular de la Entidad; no requiere informe previo de la CGR (art. 81.4)",
+    "5 hábiles"
+   ]
+  ],
+  "sel_p": [
+   [
+    "Proceso de selección",
+    "Convocatoria (art. 97.1)",
+    "3 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Expresiones de interés, consultas y observaciones (arts. 98-99)",
+    "7 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Absolución de consultas y observaciones (art. 99.3)",
+    "4 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Integración y publicación de las bases (art. 100), al día siguiente",
+    "1 hábil"
+   ],
+   [
+    "Proceso de selección",
+    "Presentación de propuestas (art. 103.1)",
+    "7 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Evaluación de las propuestas (art. 104.1)",
+    "4 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Otorgamiento de la buena pro, a más tardar al día siguiente (art. 105.1)",
+    "1 hábil"
+   ],
+   [
+    "Proceso de selección",
+    "Plazo para apelar la buena pro; luego queda consentida (art. 94.1)",
+    "8 hábiles"
+   ]
+  ],
+  "sel_i": [
+   [
+    "Proceso de selección",
+    "Convocatoria (art. 106.1)",
+    "1 hábil"
+   ],
+   [
+    "Proceso de selección",
+    "Expresiones de interés, consultas y observaciones (arts. 107-108)",
+    "5 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Absolución de consultas y observaciones (art. 108.2)",
+    "3 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Integración y publicación de las bases (art. 108.4), al día siguiente",
+    "1 hábil"
+   ],
+   [
+    "Proceso de selección",
+    "Presentación de propuestas (art. 109.1)",
+    "3 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Evaluación de las propuestas (art. 109.2)",
+    "3 hábiles"
+   ],
+   [
+    "Proceso de selección",
+    "Otorgamiento de la buena pro, a más tardar al día siguiente (art. 110.1)",
+    "1 hábil"
+   ],
+   [
+    "Proceso de selección",
+    "Plazo para apelar la buena pro; luego queda consentida (art. 94.1)",
+    "5 hábiles"
+   ]
+  ],
+  "conv": [
+   [
+    "Convenio de Inversión",
+    "La empresa adjudicataria presenta los requisitos para perfeccionar el Convenio de Inversión (art. 111.1)",
+    "10 hábiles"
+   ],
+   [
+    "Convenio de Inversión",
+    "Revisión de los requisitos por la Entidad Pública (art. 111.1)",
+    "5 hábiles"
+   ],
+   [
+    "Convenio de Inversión",
+    "Suscripción del Convenio de Inversión (art. 111.3)",
+    "5 hábiles"
+   ]
+  ],
+  "eps": [
+   [
+    "Convenio de Inversión",
+    "Selección y contratación de la Entidad Privada Supervisora, con costo a cargo de la Empresa Privada (arts. 116-118)",
+    ""
+   ],
+   [
+    "Convenio de Inversión",
+    "El postor ganador presenta la documentación para suscribir el contrato de supervisión (art. 118.1)",
+    "10 hábiles"
+   ]
+  ],
+  "hab_ent": [
+   [
+    "Ejecución",
+    "Requisitos habilitantes: la Entidad entrega el {ET} aprobado, se designa o contrata la supervisión y se entrega el terreno por acta (art. 127)",
+    ""
+   ]
+  ],
+  "hab_emp": [
+   [
+    "Ejecución",
+    "Requisitos habilitantes: supervisión designada o contratada y entrega del terreno por acta; el plazo de ejecución corre desde el día siguiente (art. 127)",
+    ""
+   ]
+  ],
+  "hab_om": [
+   [
+    "Ejecución",
+    "Requisitos habilitantes; el hito de inicio del plazo lo señalan las bases (art. 127.3)",
+    ""
+   ]
+  ],
+  "et_elab": [
+   [
+    "Ejecución",
+    "Elaboración del {ET} por la Empresa Privada (art. 130)",
+    ""
+   ]
+  ],
+  "et_sup": [
+   [
+    "Ejecución",
+    "Supervisión de la elaboración del {ET}, financiada por la Empresa Privada (arts. 116, 127)",
+    ""
+   ]
+  ],
+  "et_act": [
+   [
+    "Ejecución",
+    "Actualización del {ET}, financiada por la Empresa Privada (art. 66.1)",
+    ""
+   ]
+  ],
+  "et_apr_p": [
+   [
+    "Ejecución",
+    "Aprobación del {ET} por la Entidad Pública (art. 130.3)",
+    "30 hábiles"
+   ]
+  ],
+  "et_apr_i": [
+   [
+    "Ejecución",
+    "Aprobación del {ET} por la Entidad Pública (art. 130.3)",
+    "10 hábiles"
+   ]
+  ],
+  "obra": [
+   [
+    "Ejecución",
+    "Ejecución de la obra{por_cada}{sup}{par} (arts. 125, 131)",
+    ""
+   ]
+  ],
+  "recep": [
+   [
+    "Ejecución",
+    "Culminación, verificación conjunta y Conformidades de Recepción y de Calidad{por_cada} (arts. 145-146)",
+    "5 calendario"
+   ]
+  ],
+  "plan": [
+   [
+    "Ejecución",
+    "Elaboración del Plan de Operación y/o Mantenimiento por la Empresa Privada, presentado antes de la recepción total (arts. 130.7, 152.2)",
+    ""
+   ],
+   [
+    "Ejecución",
+    "Aprobación del Plan por la Entidad Pública mediante acto resolutivo (art. 130.3)",
+    "10 hábiles"
+   ]
+  ],
+  "om_act": [
+   [
+    "Ejecución",
+    "{omlabel}: cada período trimestral la Empresa Privada comunica su culminación (art. 153.3)",
+    "5 calendario"
+   ],
+   [
+    "Ejecución",
+    "Culminación total: verificación y Conformidad de Recepción por la Entidad Pública (art. 153.4)",
+    "10 calendario"
+   ],
+   [
+    "Ejecución",
+    "De haber observaciones, la Empresa Privada las absuelve (art. 153.7)",
+    "10 calendario"
+   ],
+   [
+    "Ejecución",
+    "Verificación de la subsanación y recepción (art. 153.8)",
+    "5 calendario"
+   ]
+  ],
+  "sv_act": [
+   [
+    "Ejecución",
+    "Prestación del Servicio conforme a los Términos de Referencia; el plazo lo fijan las bases (art. 157)",
+    ""
+   ],
+   [
+    "Ejecución",
+    "Cada período trimestral la Empresa Privada comunica su culminación (art. 158.2)",
+    "5 calendario"
+   ],
+   [
+    "Ejecución",
+    "Culminación total: Conformidad de Recepción de la Prestación Ejecutada (art. 158.3)",
+    "10 calendario"
+   ],
+   [
+    "Ejecución",
+    "Verificación de la subsanación de observaciones (art. 158.4)",
+    "5 calendario"
+   ]
+  ],
+  "vv_act": [
+   [
+    "Ejecución",
+    "Elaboración del Expediente Ejecutivo por la Empresa Privada (arts. 130, 164.4)",
+    ""
+   ],
+   [
+    "Ejecución",
+    "Aprobación del Expediente Ejecutivo por la Entidad Pública (art. 130.3)",
+    "10 hábiles"
+   ],
+   [
+    "Ejecución",
+    "Ejecución de las actividades de construcción de viviendas rurales conforme al Expediente Ejecutivo (art. 164)",
+    ""
+   ],
+   [
+    "Ejecución",
+    "Valorizaciones de las actividades (art. 165)",
+    ""
+   ],
+   [
+    "Ejecución",
+    "Culminación de la totalidad de las viviendas rurales y Conformidades de Recepción y de Calidad (arts. 167, 177)",
+    ""
+   ]
+  ],
+  "reco": [
+   [
+    "Reconocimiento (CIPRL)",
+    "La Entidad Pública solicita el CIPRL/CIPGN tras las conformidades (art. 178.1)",
+    "3"
+   ],
+   [
+    "Reconocimiento (CIPRL)",
+    "Emisión electrónica por la DGTP (art. 178.8)",
+    "6 hábiles"
+   ]
+  ],
+  "reco_est": [
+   [
+    "Reconocimiento (CIPRL)",
+    "El primer CIPRL/CIPGN reconoce el costo de elaborar o actualizar estudios, Expediente Técnico o Plan; reembolso de hasta 2% (estudios) o 5% (Plan) (arts. 66.2, 67.1)",
+    ""
+   ]
+  ],
+  "liq_obl": [
+   [
+    "Liquidación",
+    "La Empresa Privada presenta la Liquidación por obligación{por_cada} (art. 148.1)",
+    "60 calendario"
+   ],
+   [
+    "Liquidación",
+    "Pronunciamiento de la Entidad Pública sobre la Liquidación por obligación (art. 148.2)",
+    "60 calendario"
+   ]
+  ],
+  "liq_om": [
+   [
+    "Liquidación",
+    "Informe de conclusión presentado por la Empresa Privada (arts. 156.1, 163.1)",
+    "20 calendario"
+   ],
+   [
+    "Liquidación",
+    "Pronunciamiento de la Entidad Pública sobre el informe de conclusión (art. 156.2)",
+    "20 calendario"
+   ]
+  ],
+  "liq_conv": [
+   [
+    "Liquidación",
+    "La Empresa Privada presenta la Liquidación del Convenio de Inversión (art. 133.7)",
+    "20 calendario"
+   ],
+   [
+    "Liquidación",
+    "Pronunciamiento de la Entidad Pública sobre la Liquidación del Convenio (art. 133.8)",
+    "20 calendario"
+   ]
+  ]
+ }
+}
