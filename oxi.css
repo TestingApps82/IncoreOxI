@@ -676,7 +676,7 @@ body.dark .tipo-mixto {
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 1.4rem 1.6rem;
+  padding: 1rem 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -731,7 +731,7 @@ body.dark .tipo-mixto {
 
 .tmca-card-value {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  font-size: 1.55rem;
+  font-size: 1.8rem;
   font-weight: 900;
   letter-spacing: -0.02em;
   color: var(--text-main);
