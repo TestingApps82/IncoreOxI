@@ -12,7 +12,7 @@ function initCircleNavigation() {
   const circlePeru = document.getElementById('circle-peru');
   if (circlePeru) {
     circlePeru.addEventListener('click', () => {
-      window.location.href = '/incorePeru.html';
+      window.location.href = './incorePeru.html';
     });
   }
 }
@@ -21,7 +21,7 @@ function initSanMartinNavigation() {
   const circleSanMartin = document.getElementById('circle-san-martin');
   if (circleSanMartin) {
     circleSanMartin.addEventListener('click', () => {
-      window.location.href = '/incoreSanMartin.html';
+      window.location.href = './incoreSanMartin.html';
     });
   }
 }
