@@ -546,7 +546,7 @@ function bindMapLink(el, item) {
   const on = item && item.mapa;
   el.classList.toggle('has-map', !!on);
   el.title = on ? 'Ver mapa distrital (se abre en otra pestaña)' : '';
-  el.onclick = on ? () => window.open(`/mapa.html?id=${item.id}`, '_blank') : null;
+  el.onclick = on ? () => window.open(`mapa.html?id=${item.id}`, '_blank') : null;
 }
 
 // ==========================================================================
