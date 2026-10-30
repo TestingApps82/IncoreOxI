@@ -132,7 +132,7 @@ async function initProcesos() {
       <div class="card-title">${esc(it.title)}</div>
       <div class="card-text">${it.lines.length} pasos</div>
     </article>`).join('') : noFiles('flujos')) + `
-    <a class="flow-card gen-card" href="/oxiGenerador.html">
+    <a class="flow-card gen-card" href="oxiGenerador.html">
       <div class="card-title">Generador de flujograma de Inversiones</div>
       <div class="card-text">Elige cuántas inversiones se financian y los compromisos de la Empresa Privada.</div>
     </a>`;
