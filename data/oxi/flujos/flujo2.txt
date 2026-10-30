@@ -1,0 +1,31 @@
+INVERSIONES: IOARR
+1 | Priorización | Aprobación de la lista de priorización: en Gobiernos Regionales, Gobiernos Locales y Universidades Públicas, por acuerdo del Consejo Regional, del Concejo Municipal o del Consejo Universitario o la Comisión Organizadora; en el Gobierno Nacional, por resolución del titular de la Entidad. Facultad indelegable; plazo de hasta 30 días hábiles desde la comunicación de la OPMI (art. 57.6) | 30 hábiles
+2 | Actos previos | Designación del comité especial (art. 70) | 5 hábiles
+3 | Actos previos | Elaboración de las bases por el comité especial (art. 75) | 5 hábiles
+4 | Actos previos | Informe legal favorable del área legal (art. 70.7) | 5 hábiles
+5 | Actos previos | Informe previo de la CGR (art. 80.2) | 7 hábiles
+6 | Actos previos | Informe de implementación de las recomendaciones de la CGR, de ser el caso (art. 81.2) | 3 hábiles
+7 | Actos previos | Aprobación de las bases por el titular de la Entidad (art. 81.3) | 5 hábiles
+8 | Proceso de selección | Convocatoria (art. 106.1) | 1 hábil
+9 | Proceso de selección | Expresiones de interés, consultas y observaciones (arts. 107-108) | 5 hábiles
+10 | Proceso de selección | Absolución de consultas y observaciones (art. 108.2) | 3 hábiles
+11 | Proceso de selección | Integración y publicación de las bases (art. 108.4), al día siguiente | 1 hábil
+12 | Proceso de selección | Presentación de propuestas (art. 109.1) | 3 hábiles
+13 | Proceso de selección | Evaluación de las propuestas (art. 109.2) | 3 hábiles
+14 | Proceso de selección | Otorgamiento de la buena pro, a más tardar al día siguiente (art. 110.1) | 1 hábil
+15 | Proceso de selección | Plazo para apelar la buena pro; luego queda consentida (art. 94.1) | 5 hábiles
+16 | Convenio de Inversión | La empresa adjudicataria presenta los requisitos para perfeccionar el Convenio de Inversión (art. 111.1) | 10 hábiles
+17 | Convenio de Inversión | Revisión de los requisitos por la Entidad Pública (art. 111.1) | 5 hábiles
+18 | Convenio de Inversión | Suscripción del Convenio de Inversión (art. 111.3) | 5 hábiles
+19 | Ejecución | Requisitos habilitantes: supervisión designada o contratada y entrega del terreno por acta; el plazo de ejecución corre desde el día siguiente (art. 127) | 
+20 | Ejecución | Elaboración del Documento Equivalente por la Empresa Privada (art. 130) | 
+21 | Ejecución | Aprobación del Documento Equivalente por la Entidad Pública (art. 130.3) | 10 hábiles
+22 | Ejecución | Ejecución de la obra (arts. 125, 131) | 
+23 | Ejecución | Culminación, verificación conjunta y Conformidades de Recepción y de Calidad (arts. 145-146) | 5 calendario
+24 | Reconocimiento (CIPRL) | La Entidad Pública solicita el CIPRL/CIPGN tras las conformidades (art. 178.1) | 3
+25 | Reconocimiento (CIPRL) | Emisión electrónica por la DGTP (art. 178.8) | 6 hábiles
+26 | Reconocimiento (CIPRL) | El primer CIPRL/CIPGN reconoce el costo de elaborar o actualizar estudios, Expediente Técnico o Plan; reembolso de hasta 2% (estudios) o 5% (Plan) (arts. 66.2, 67.1) | 
+27 | Liquidación | La Empresa Privada presenta la Liquidación por obligación (art. 148.1) | 60 calendario
+28 | Liquidación | Pronunciamiento de la Entidad Pública sobre la Liquidación por obligación (art. 148.2) | 60 calendario
+29 | Liquidación | La Empresa Privada presenta la Liquidación del Convenio de Inversión (art. 133.7) | 20 calendario
+30 | Liquidación | Pronunciamiento de la Entidad Pública sobre la Liquidación del Convenio (art. 133.8) | 20 calendario

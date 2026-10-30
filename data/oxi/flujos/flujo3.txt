@@ -1,0 +1,30 @@
+ACTIVIDADES DE OPERACIÓN Y/O MANTENIMIENTO
+1 | Priorización | Aprobación de la lista de priorización: en Gobiernos Regionales, Gobiernos Locales y Universidades Públicas, por acuerdo del Consejo Regional, del Concejo Municipal o del Consejo Universitario o la Comisión Organizadora; en el Gobierno Nacional, por resolución del titular de la Entidad. Facultad indelegable; plazo de hasta 30 días hábiles desde la comunicación de la OPMI (art. 57.6) | 30 hábiles
+2 | Actos previos | Designación del comité especial (art. 70) | 5 hábiles
+3 | Actos previos | Elaboración de las bases por el comité especial (art. 75) | 5 hábiles
+4 | Actos previos | Informe legal favorable del área legal (art. 70.7) | 5 hábiles
+5 | Actos previos | Aprobación de las bases por el titular de la Entidad; no requiere informe previo de la CGR (art. 81.4) | 5 hábiles
+6 | Proceso de selección | Convocatoria (art. 106.1) | 1 hábil
+7 | Proceso de selección | Expresiones de interés, consultas y observaciones (arts. 107-108) | 5 hábiles
+8 | Proceso de selección | Absolución de consultas y observaciones (art. 108.2) | 3 hábiles
+9 | Proceso de selección | Integración y publicación de las bases (art. 108.4), al día siguiente | 1 hábil
+10 | Proceso de selección | Presentación de propuestas (art. 109.1) | 3 hábiles
+11 | Proceso de selección | Evaluación de las propuestas (art. 109.2) | 3 hábiles
+12 | Proceso de selección | Otorgamiento de la buena pro, a más tardar al día siguiente (art. 110.1) | 1 hábil
+13 | Proceso de selección | Plazo para apelar la buena pro; luego queda consentida (art. 94.1) | 5 hábiles
+14 | Convenio de Inversión | La empresa adjudicataria presenta los requisitos para perfeccionar el Convenio de Inversión (art. 111.1) | 10 hábiles
+15 | Convenio de Inversión | Revisión de los requisitos por la Entidad Pública (art. 111.1) | 5 hábiles
+16 | Convenio de Inversión | Suscripción del Convenio de Inversión (art. 111.3) | 5 hábiles
+17 | Ejecución | Requisitos habilitantes; el hito de inicio del plazo lo señalan las bases (art. 127.3) | 
+18 | Ejecución | Elaboración del Plan de Operación y/o Mantenimiento por la Empresa Privada, presentado antes de la recepción total (arts. 130.7, 152.2) | 
+19 | Ejecución | Aprobación del Plan por la Entidad Pública mediante acto resolutivo (art. 130.3) | 10 hábiles
+20 | Ejecución | Actividades de operación y/o mantenimiento: cada período trimestral la Empresa Privada comunica su culminación (art. 153.3) | 5 calendario
+21 | Ejecución | Culminación total: verificación y Conformidad de Recepción por la Entidad Pública (art. 153.4) | 10 calendario
+22 | Ejecución | De haber observaciones, la Empresa Privada las absuelve (art. 153.7) | 10 calendario
+23 | Ejecución | Verificación de la subsanación y recepción (art. 153.8) | 5 calendario
+24 | Reconocimiento (CIPRL) | La Entidad Pública solicita el CIPRL/CIPGN tras las conformidades (art. 178.1) | 3
+25 | Reconocimiento (CIPRL) | Emisión electrónica por la DGTP (art. 178.8) | 6 hábiles
+26 | Liquidación | Informe de conclusión presentado por la Empresa Privada (arts. 156.1, 163.1) | 20 calendario
+27 | Liquidación | Pronunciamiento de la Entidad Pública sobre el informe de conclusión (art. 156.2) | 20 calendario
+28 | Liquidación | La Empresa Privada presenta la Liquidación del Convenio de Inversión (art. 133.7) | 20 calendario
+29 | Liquidación | Pronunciamiento de la Entidad Pública sobre la Liquidación del Convenio (art. 133.8) | 20 calendario
