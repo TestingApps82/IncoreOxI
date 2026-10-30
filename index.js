@@ -107,6 +107,6 @@ function initCtaButton() {
     const btn = document.getElementById(id);
     if (btn) btn.addEventListener('click', () => { window.location.href = url; });
   };
-  go('btn-iniciar-incore', 'incore.html');
-  go('btn-iniciar-oxi', 'oxi.html');
+  go('btn-iniciar-incore', './incore.html');
+  go('btn-iniciar-oxi', './oxi.html');
 }
