@@ -8,42 +8,42 @@ const PILLARS_CONFIG = [
     id: 'entorno-economico',
     pilarName: 'Entorno económico',
     name: 'Entorno Económico',
-    icon: '/img/pilar_economico.svg',
+    icon: 'img/pilar_economico.svg',
     indicators: ['EE1', 'EE2', 'EE3', 'EE4', 'EE5', 'EE6', 'EE7']
   },
   {
     id: 'laboral',
     pilarName: 'Laboral',
     name: 'Laboral',
-    icon: '/img/pilar_laboral.svg',
+    icon: 'img/pilar_laboral.svg',
     indicators: ['LA1', 'LA2', 'LA3', 'LA4', 'LA5', 'LA6', 'LA7']
   },
   {
     id: 'infraestructura',
     pilarName: 'Infraestructura',
     name: 'Infraestructura',
-    icon: '/img/pilar_infraestructura.svg',
+    icon: 'img/pilar_infraestructura.svg',
     indicators: ['IF1', 'IF2', 'IF3', 'IF4', 'IF5', 'IF6', 'IF7']
   },
   {
     id: 'salud',
     pilarName: 'Salud',
     name: 'Salud',
-    icon: '/img/pilar_salud.svg',
+    icon: 'img/pilar_salud.svg',
     indicators: ['SA1', 'SA2', 'SA3', 'SA4', 'SA5', 'SA6', 'SA7']
   },
   {
     id: 'educacion',
     pilarName: 'Educación',
     name: 'Educación',
-    icon: '/img/pilar_educacion.svg',
+    icon: 'img/pilar_educacion.svg',
     indicators: ['ED1', 'ED2', 'ED3', 'ED4', 'ED5', 'ED6', 'ED7']
   },
   {
     id: 'instituciones',
     pilarName: 'Instituciones',
     name: 'Instituciones',
-    icon: '/img/pilar_instituciones.svg',
+    icon: 'img/pilar_instituciones.svg',
     indicators: ['IS1', 'IS2', 'IS3', 'IS4', 'IS5', 'IS6', 'IS7']
   }
 ];
@@ -133,9 +133,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 async function loadDataset() {
   try {
     // Intentar primero /DATA/... y luego DATA/...
-    let res = await fetch('/DATA/datos_incore_sanmartin.txt');
+    let res = await fetch('/data/datos_incore_sanmartin.txt');
     if (!res.ok) {
-      res = await fetch('DATA/datos_incore_sanmartin.txt');
+      res = await fetch('data/datos_incore_sanmartin.txt');
     }
     if (!res.ok) throw new Error('No se pudo encontrar el archivo en /DATA');
 
